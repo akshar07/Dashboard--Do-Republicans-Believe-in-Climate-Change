@@ -1,0 +1,1977 @@
+year,State Name,state,drought,flooding,freeze,severe storm,tropical cyclone,wildfire,winter storm
+1980,Alaska,AK,0,0,0,0,0,0,0
+1981,Alaska,AK,0,0,0,0,0,0,0
+1982,Alaska,AK,0,0,0,0,0,0,0
+1983,Alaska,AK,0,0,0,0,0,0,0
+1984,Alaska,AK,0,0,0,0,0,0,0
+1985,Alaska,AK,0,0,0,0,0,0,0
+1986,Alaska,AK,0,0,0,0,0,0,0
+1987,Alaska,AK,0,0,0,0,0,0,0
+1988,Alaska,AK,0,0,0,0,0,0,0
+1989,Alaska,AK,0,0,0,0,0,0,0
+1990,Alaska,AK,0,0,0,0,0,0,0
+1991,Alaska,AK,0,0,0,0,0,0,0
+1992,Alaska,AK,0,0,0,0,0,0,0
+1993,Alaska,AK,0,0,0,0,0,0,0
+1994,Alaska,AK,0,0,0,0,0,0,0
+1995,Alaska,AK,0,0,0,0,0,0,0
+1996,Alaska,AK,0,0,0,0,0,0,0
+1997,Alaska,AK,0,0,0,0,0,0,0
+1998,Alaska,AK,0,0,0,0,0,0,0
+1999,Alaska,AK,0,0,0,0,0,0,0
+2000,Alaska,AK,0,0,0,0,0,0,0
+2001,Alaska,AK,0,0,0,0,0,0,0
+2002,Alaska,AK,0,0,0,0,0,1,0
+2003,Alaska,AK,0,0,0,0,0,1,0
+2004,Alaska,AK,0,0,0,0,0,0,0
+2005,Alaska,AK,0,0,0,0,0,0,0
+2006,Alaska,AK,0,0,0,0,0,1,0
+2007,Alaska,AK,0,0,0,0,0,1,0
+2008,Alaska,AK,0,0,0,0,0,0,0
+2009,Alaska,AK,0,0,0,0,0,1,0
+2010,Alaska,AK,0,0,0,0,0,0,0
+2011,Alaska,AK,0,0,0,0,0,0,0
+2012,Alaska,AK,0,0,0,0,0,0,0
+2013,Alaska,AK,0,0,0,0,0,0,0
+2014,Alaska,AK,0,0,0,0,0,0,0
+2015,Alaska,AK,0,0,0,0,0,1,0
+2016,Alaska,AK,0,0,0,0,0,0,0
+2017,Alaska,AK,0,0,0,0,0,0,0
+1980,Alabama,AL,1,0,0,0,0,0,0
+1981,Alabama,AL,0,0,0,1,0,0,0
+1982,Alabama,AL,0,0,0,1,0,0,1
+1983,Alabama,AL,1,1,1,0,0,0,0
+1984,Alabama,AL,0,0,0,0,0,0,0
+1985,Alabama,AL,0,0,0,0,2,0,1
+1986,Alabama,AL,1,0,0,0,0,0,0
+1987,Alabama,AL,0,0,0,0,0,0,0
+1988,Alabama,AL,1,0,0,0,0,0,0
+1989,Alabama,AL,0,0,0,0,0,0,1
+1990,Alabama,AL,0,0,0,0,0,0,0
+1991,Alabama,AL,0,0,0,1,0,0,0
+1992,Alabama,AL,0,0,0,0,0,0,0
+1993,Alabama,AL,1,0,0,0,0,0,1
+1994,Alabama,AL,0,0,0,0,1,0,1
+1995,Alabama,AL,0,0,0,0,1,0,0
+1996,Alabama,AL,0,0,0,0,0,0,0
+1997,Alabama,AL,0,0,0,0,0,0,0
+1998,Alabama,AL,1,0,0,1,1,0,0
+1999,Alabama,AL,1,0,0,1,0,0,1
+2000,Alabama,AL,1,0,0,0,0,0,0
+2001,Alabama,AL,0,0,0,0,0,0,0
+2002,Alabama,AL,0,0,0,0,0,1,0
+2003,Alabama,AL,0,0,0,3,0,0,0
+2004,Alabama,AL,0,0,0,0,1,0,0
+2005,Alabama,AL,0,0,0,0,3,0,0
+2006,Alabama,AL,1,0,0,2,0,0,0
+2007,Alabama,AL,1,0,1,0,0,0,0
+2008,Alabama,AL,1,0,0,1,2,0,0
+2009,Alabama,AL,0,0,0,3,0,0,0
+2010,Alabama,AL,0,1,0,0,0,0,0
+2011,Alabama,AL,1,0,0,3,1,0,0
+2012,Alabama,AL,1,0,0,1,1,0,0
+2013,Alabama,AL,0,0,0,1,0,0,0
+2014,Alabama,AL,0,0,0,1,0,0,1
+2015,Alabama,AL,0,0,0,1,0,0,0
+2016,Alabama,AL,1,0,0,1,0,1,0
+2017,Alabama,AL,0,0,1,2,0,0,0
+1980,Arkansas,AR,1,1,0,0,0,0,0
+1981,Arkansas,AR,0,0,0,0,0,0,0
+1982,Arkansas,AR,0,0,0,1,0,0,1
+1983,Arkansas,AR,1,1,1,0,0,0,0
+1984,Arkansas,AR,0,0,0,1,0,0,0
+1985,Arkansas,AR,0,0,0,0,0,0,1
+1986,Arkansas,AR,1,0,0,0,0,0,0
+1987,Arkansas,AR,0,0,0,0,0,0,0
+1988,Arkansas,AR,1,0,0,0,0,0,0
+1989,Arkansas,AR,0,0,0,0,0,0,1
+1990,Arkansas,AR,0,1,0,0,0,0,0
+1991,Arkansas,AR,0,0,0,0,0,0,0
+1992,Arkansas,AR,0,0,0,0,0,0,0
+1993,Arkansas,AR,0,0,0,0,0,0,0
+1994,Arkansas,AR,0,0,0,1,0,0,1
+1995,Arkansas,AR,0,0,0,0,0,0,0
+1996,Arkansas,AR,0,0,0,0,0,0,1
+1997,Arkansas,AR,0,0,0,1,0,0,0
+1998,Arkansas,AR,1,0,0,0,0,0,0
+1999,Arkansas,AR,1,0,0,1,0,0,1
+2000,Arkansas,AR,1,0,0,0,0,0,0
+2001,Arkansas,AR,0,0,0,1,0,0,0
+2002,Arkansas,AR,0,0,0,1,0,0,0
+2003,Arkansas,AR,0,0,0,2,0,0,0
+2004,Arkansas,AR,0,0,0,0,0,0,0
+2005,Arkansas,AR,1,0,0,0,1,0,0
+2006,Arkansas,AR,1,0,0,1,0,0,0
+2007,Arkansas,AR,1,0,1,0,0,0,0
+2008,Arkansas,AR,1,0,0,2,2,0,0
+2009,Arkansas,AR,0,0,0,2,0,0,0
+2010,Arkansas,AR,0,1,0,0,0,0,0
+2011,Arkansas,AR,1,1,0,4,0,0,0
+2012,Arkansas,AR,1,0,0,0,0,0,0
+2013,Arkansas,AR,0,0,0,0,0,0,0
+2014,Arkansas,AR,0,0,0,2,0,0,0
+2015,Arkansas,AR,0,1,0,3,0,0,0
+2016,Arkansas,AR,0,0,0,1,0,0,0
+2017,Arkansas,AR,0,0,0,2,0,0,0
+1980,Arizona,AZ,0,0,0,0,0,0,0
+1981,Arizona,AZ,0,0,0,0,0,0,0
+1982,Arizona,AZ,0,0,0,0,0,0,0
+1983,Arizona,AZ,0,1,0,0,0,0,0
+1984,Arizona,AZ,0,0,0,0,0,0,0
+1985,Arizona,AZ,0,0,0,0,0,0,0
+1986,Arizona,AZ,0,0,0,0,0,0,0
+1987,Arizona,AZ,0,0,0,0,0,0,0
+1988,Arizona,AZ,0,0,0,0,0,0,0
+1989,Arizona,AZ,0,0,0,0,0,0,0
+1990,Arizona,AZ,0,0,0,0,0,0,0
+1991,Arizona,AZ,0,0,0,0,0,0,0
+1992,Arizona,AZ,0,0,0,0,0,0,0
+1993,Arizona,AZ,0,0,0,0,0,0,0
+1994,Arizona,AZ,0,0,0,0,0,1,0
+1995,Arizona,AZ,0,0,0,0,0,0,0
+1996,Arizona,AZ,0,0,0,0,0,0,0
+1997,Arizona,AZ,0,0,0,0,0,0,0
+1998,Arizona,AZ,0,0,0,0,0,0,0
+1999,Arizona,AZ,0,0,0,0,0,0,0
+2000,Arizona,AZ,1,0,0,0,0,0,0
+2001,Arizona,AZ,0,0,0,0,0,0,0
+2002,Arizona,AZ,1,0,0,0,0,1,0
+2003,Arizona,AZ,1,0,0,0,0,1,0
+2004,Arizona,AZ,0,0,0,0,0,0,0
+2005,Arizona,AZ,0,0,0,0,0,0,0
+2006,Arizona,AZ,1,0,0,0,0,1,0
+2007,Arizona,AZ,1,0,0,0,0,1,0
+2008,Arizona,AZ,0,0,0,0,0,1,0
+2009,Arizona,AZ,0,0,0,0,0,1,0
+2010,Arizona,AZ,0,0,0,1,0,0,0
+2011,Arizona,AZ,0,0,0,0,0,1,0
+2012,Arizona,AZ,1,0,0,0,0,1,0
+2013,Arizona,AZ,1,0,0,0,0,0,0
+2014,Arizona,AZ,1,0,0,0,0,0,0
+2015,Arizona,AZ,1,0,0,0,0,0,0
+2016,Arizona,AZ,0,0,0,0,0,1,0
+2017,Arizona,AZ,0,0,0,0,0,0,0
+1980,California,CA,0,0,0,0,0,0,0
+1981,California,CA,0,0,0,0,0,0,0
+1982,California,CA,0,0,0,0,0,0,0
+1983,California,CA,0,1,0,0,0,0,0
+1984,California,CA,0,0,0,0,0,0,0
+1985,California,CA,0,0,0,0,0,0,0
+1986,California,CA,0,0,0,1,0,0,0
+1987,California,CA,0,0,0,0,0,0,0
+1988,California,CA,0,0,0,0,0,0,0
+1989,California,CA,0,0,0,0,0,0,0
+1990,California,CA,0,0,1,0,0,0,0
+1991,California,CA,0,0,0,0,0,1,0
+1992,California,CA,0,0,0,0,0,0,0
+1993,California,CA,0,0,0,0,0,1,0
+1994,California,CA,0,0,0,0,0,1,0
+1995,California,CA,0,1,0,0,0,0,0
+1996,California,CA,0,0,0,0,0,0,0
+1997,California,CA,0,1,0,0,0,0,0
+1998,California,CA,0,0,1,1,0,0,0
+1999,California,CA,0,0,0,0,0,0,0
+2000,California,CA,1,0,0,0,0,0,0
+2001,California,CA,0,0,0,0,0,0,0
+2002,California,CA,1,0,0,0,0,1,0
+2003,California,CA,0,0,0,0,0,1,0
+2004,California,CA,0,0,0,0,0,0,0
+2005,California,CA,0,0,0,0,0,0,0
+2006,California,CA,0,0,0,0,0,1,0
+2007,California,CA,1,0,1,0,0,1,0
+2008,California,CA,1,0,0,0,0,1,0
+2009,California,CA,1,0,0,0,0,1,0
+2010,California,CA,0,0,0,0,0,0,0
+2011,California,CA,0,0,0,0,0,0,0
+2012,California,CA,1,0,0,0,0,1,0
+2013,California,CA,1,0,0,0,0,0,0
+2014,California,CA,1,0,0,0,0,0,0
+2015,California,CA,1,0,0,0,0,1,0
+2016,California,CA,1,0,0,0,0,1,0
+2017,California,CA,0,1,0,1,0,0,0
+1980,Colorado,CO,0,0,0,0,0,0,0
+1981,Colorado,CO,0,0,0,0,0,0,0
+1982,Colorado,CO,0,0,0,1,0,0,0
+1983,Colorado,CO,0,0,1,0,0,0,0
+1984,Colorado,CO,0,0,0,1,0,0,0
+1985,Colorado,CO,0,0,0,0,0,0,0
+1986,Colorado,CO,0,0,0,1,0,0,0
+1987,Colorado,CO,0,0,0,0,0,0,0
+1988,Colorado,CO,0,0,0,0,0,0,0
+1989,Colorado,CO,1,0,0,0,0,0,0
+1990,Colorado,CO,0,0,0,1,0,0,0
+1991,Colorado,CO,0,0,0,0,0,0,0
+1992,Colorado,CO,0,0,0,0,0,0,0
+1993,Colorado,CO,0,0,0,0,0,0,0
+1994,Colorado,CO,0,0,0,1,0,1,0
+1995,Colorado,CO,0,0,0,0,0,0,0
+1996,Colorado,CO,1,0,0,0,0,0,0
+1997,Colorado,CO,0,0,0,0,0,0,0
+1998,Colorado,CO,0,0,0,0,0,0,0
+1999,Colorado,CO,0,0,0,0,0,0,0
+2000,Colorado,CO,1,0,0,0,0,1,0
+2001,Colorado,CO,0,0,0,1,0,0,0
+2002,Colorado,CO,1,0,0,0,0,1,0
+2003,Colorado,CO,1,0,0,1,0,0,0
+2004,Colorado,CO,0,0,0,0,0,0,0
+2005,Colorado,CO,0,0,0,0,0,0,0
+2006,Colorado,CO,1,0,0,0,0,0,0
+2007,Colorado,CO,0,0,0,0,0,0,0
+2008,Colorado,CO,1,0,0,1,0,1,0
+2009,Colorado,CO,0,0,0,1,0,1,0
+2010,Colorado,CO,0,0,0,0,0,0,0
+2011,Colorado,CO,1,0,0,1,0,1,0
+2012,Colorado,CO,1,0,0,1,0,1,0
+2013,Colorado,CO,1,1,0,0,0,0,0
+2014,Colorado,CO,0,0,0,2,0,0,0
+2015,Colorado,CO,0,1,0,2,0,1,0
+2016,Colorado,CO,0,0,0,3,0,0,0
+2017,Colorado,CO,0,0,0,0,0,0,0
+1980,Connecticut,CT,0,0,0,0,0,0,0
+1981,Connecticut,CT,0,0,0,0,0,0,0
+1982,Connecticut,CT,0,0,0,1,0,0,1
+1983,Connecticut,CT,0,0,1,0,0,0,0
+1984,Connecticut,CT,0,0,0,1,0,0,0
+1985,Connecticut,CT,0,0,0,0,1,0,1
+1986,Connecticut,CT,0,0,0,0,0,0,0
+1987,Connecticut,CT,0,0,0,0,0,0,0
+1988,Connecticut,CT,0,0,0,0,0,0,0
+1989,Connecticut,CT,0,0,0,0,0,0,1
+1990,Connecticut,CT,0,0,0,0,0,0,0
+1991,Connecticut,CT,0,0,0,0,1,0,0
+1992,Connecticut,CT,0,0,0,0,0,0,1
+1993,Connecticut,CT,0,0,0,0,0,0,1
+1994,Connecticut,CT,0,0,0,0,0,0,2
+1995,Connecticut,CT,0,0,0,0,0,0,0
+1996,Connecticut,CT,0,0,0,0,0,0,1
+1997,Connecticut,CT,0,0,0,1,0,0,0
+1998,Connecticut,CT,0,0,0,0,0,0,0
+1999,Connecticut,CT,0,0,0,0,1,0,2
+2000,Connecticut,CT,0,0,0,0,0,0,0
+2001,Connecticut,CT,0,0,0,0,0,0,0
+2002,Connecticut,CT,0,0,0,0,0,0,0
+2003,Connecticut,CT,0,0,0,0,0,0,0
+2004,Connecticut,CT,0,0,0,0,0,0,0
+2005,Connecticut,CT,0,0,0,0,0,0,0
+2006,Connecticut,CT,0,0,0,0,0,0,0
+2007,Connecticut,CT,0,0,0,1,0,0,0
+2008,Connecticut,CT,0,0,0,1,0,0,0
+2009,Connecticut,CT,0,0,0,0,0,0,0
+2010,Connecticut,CT,0,1,0,0,0,0,0
+2011,Connecticut,CT,0,0,0,0,2,0,1
+2012,Connecticut,CT,0,0,0,0,1,0,0
+2013,Connecticut,CT,0,0,0,0,0,0,0
+2014,Connecticut,CT,0,0,0,0,0,0,0
+2015,Connecticut,CT,0,0,0,1,0,0,1
+2016,Connecticut,CT,1,0,0,1,0,0,0
+2017,Connecticut,CT,0,0,0,0,0,0,0
+1980,Delaware,DE,0,0,0,0,0,0,0
+1981,Delaware,DE,0,0,0,0,0,0,0
+1982,Delaware,DE,0,0,0,0,0,0,1
+1983,Delaware,DE,0,0,1,0,0,0,0
+1984,Delaware,DE,0,0,0,0,0,0,0
+1985,Delaware,DE,0,0,0,0,1,0,1
+1986,Delaware,DE,0,0,0,0,0,0,0
+1987,Delaware,DE,0,0,0,0,0,0,0
+1988,Delaware,DE,0,0,0,0,0,0,0
+1989,Delaware,DE,0,0,0,0,0,0,0
+1990,Delaware,DE,0,0,0,0,0,0,0
+1991,Delaware,DE,0,0,0,0,0,0,0
+1992,Delaware,DE,0,0,0,0,0,0,1
+1993,Delaware,DE,0,0,0,0,0,0,1
+1994,Delaware,DE,0,0,0,0,0,0,2
+1995,Delaware,DE,0,0,0,0,0,0,0
+1996,Delaware,DE,0,0,0,0,0,0,1
+1997,Delaware,DE,0,0,0,0,0,0,0
+1998,Delaware,DE,0,0,0,0,0,0,0
+1999,Delaware,DE,0,0,0,0,1,0,1
+2000,Delaware,DE,0,0,0,0,0,0,0
+2001,Delaware,DE,0,0,0,0,0,0,0
+2002,Delaware,DE,1,0,0,0,0,0,0
+2003,Delaware,DE,0,0,0,0,1,0,0
+2004,Delaware,DE,0,0,0,0,2,0,0
+2005,Delaware,DE,0,0,0,0,0,0,0
+2006,Delaware,DE,0,1,0,0,0,0,0
+2007,Delaware,DE,1,0,0,1,0,0,0
+2008,Delaware,DE,0,0,0,0,0,0,0
+2009,Delaware,DE,0,0,0,0,0,0,0
+2010,Delaware,DE,0,0,0,0,0,0,0
+2011,Delaware,DE,1,0,0,0,0,0,0
+2012,Delaware,DE,1,0,0,0,1,0,0
+2013,Delaware,DE,0,0,0,0,0,0,0
+2014,Delaware,DE,0,0,0,2,0,0,0
+2015,Delaware,DE,0,0,0,0,0,0,1
+2016,Delaware,DE,0,0,0,0,0,0,0
+2017,Delaware,DE,0,0,0,0,0,0,0
+1980,Florida,FL,0,0,0,0,0,0,0
+1981,Florida,FL,0,0,0,0,0,0,0
+1982,Florida,FL,0,0,0,0,0,0,1
+1983,Florida,FL,0,1,1,0,0,0,0
+1984,Florida,FL,0,0,0,1,0,0,0
+1985,Florida,FL,0,0,1,0,2,0,1
+1986,Florida,FL,0,0,0,0,0,0,0
+1987,Florida,FL,0,0,0,0,0,0,0
+1988,Florida,FL,0,0,0,0,0,0,0
+1989,Florida,FL,0,0,1,0,0,0,1
+1990,Florida,FL,0,0,0,0,0,0,0
+1991,Florida,FL,0,0,0,0,0,0,0
+1992,Florida,FL,0,0,0,1,1,0,0
+1993,Florida,FL,1,0,0,0,0,0,1
+1994,Florida,FL,0,0,0,0,1,0,0
+1995,Florida,FL,0,0,0,0,1,0,0
+1996,Florida,FL,0,0,0,0,0,0,0
+1997,Florida,FL,0,0,0,0,0,0,0
+1998,Florida,FL,1,0,0,1,1,0,0
+1999,Florida,FL,1,0,0,1,0,0,1
+2000,Florida,FL,1,0,0,0,0,0,0
+2001,Florida,FL,0,0,0,0,1,0,0
+2002,Florida,FL,0,0,0,0,0,0,0
+2003,Florida,FL,0,0,0,1,0,0,0
+2004,Florida,FL,0,0,0,0,4,0,0
+2005,Florida,FL,0,0,0,0,4,0,0
+2006,Florida,FL,1,0,0,0,0,1,0
+2007,Florida,FL,1,0,0,0,0,1,0
+2008,Florida,FL,0,0,0,0,0,1,0
+2009,Florida,FL,0,0,0,0,0,0,0
+2010,Florida,FL,0,0,0,0,0,0,0
+2011,Florida,FL,0,0,0,0,0,1,0
+2012,Florida,FL,0,0,0,0,1,0,0
+2013,Florida,FL,0,0,0,0,0,0,0
+2014,Florida,FL,0,0,0,1,0,0,0
+2015,Florida,FL,0,0,0,1,0,0,0
+2016,Florida,FL,0,0,0,2,1,0,0
+2017,Florida,FL,0,0,1,1,0,0,0
+1980,Georgia,GA,1,0,0,0,0,0,0
+1981,Georgia,GA,0,0,0,0,0,0,0
+1982,Georgia,GA,0,0,0,0,0,0,1
+1983,Georgia,GA,1,0,1,0,0,0,0
+1984,Georgia,GA,0,0,0,1,0,0,0
+1985,Georgia,GA,0,0,0,0,0,0,1
+1986,Georgia,GA,1,0,0,0,0,0,0
+1987,Georgia,GA,0,0,0,0,0,0,0
+1988,Georgia,GA,0,0,0,0,0,0,0
+1989,Georgia,GA,0,0,0,1,0,0,1
+1990,Georgia,GA,0,0,0,0,0,0,0
+1991,Georgia,GA,0,0,0,1,0,0,0
+1992,Georgia,GA,0,0,0,0,0,0,0
+1993,Georgia,GA,1,0,0,0,0,0,1
+1994,Georgia,GA,0,0,0,0,1,0,1
+1995,Georgia,GA,0,0,0,0,1,0,0
+1996,Georgia,GA,0,0,0,0,0,0,0
+1997,Georgia,GA,0,0,0,1,0,0,0
+1998,Georgia,GA,1,0,0,1,0,0,0
+1999,Georgia,GA,1,0,0,1,0,0,1
+2000,Georgia,GA,1,0,0,0,0,0,0
+2001,Georgia,GA,0,0,0,0,0,0,0
+2002,Georgia,GA,1,0,0,1,0,1,0
+2003,Georgia,GA,0,0,0,2,0,0,0
+2004,Georgia,GA,0,0,0,0,3,0,0
+2005,Georgia,GA,0,0,0,0,2,0,0
+2006,Georgia,GA,1,0,0,1,0,0,0
+2007,Georgia,GA,1,0,1,1,0,1,0
+2008,Georgia,GA,1,0,0,1,0,0,0
+2009,Georgia,GA,0,0,0,2,0,0,0
+2010,Georgia,GA,0,1,0,0,0,0,0
+2011,Georgia,GA,1,0,0,5,1,0,0
+2012,Georgia,GA,1,0,0,1,0,0,0
+2013,Georgia,GA,0,0,0,2,0,0,0
+2014,Georgia,GA,0,0,0,1,0,0,1
+2015,Georgia,GA,0,1,0,1,0,0,1
+2016,Georgia,GA,1,0,0,2,1,1,0
+2017,Georgia,GA,0,0,1,2,0,0,0
+1980,Hawaii,HI,0,0,0,0,0,0,0
+1981,Hawaii,HI,0,0,0,0,0,0,0
+1982,Hawaii,HI,0,0,0,0,0,0,0
+1983,Hawaii,HI,0,0,0,0,0,0,0
+1984,Hawaii,HI,0,0,0,0,0,0,0
+1985,Hawaii,HI,0,0,0,0,0,0,0
+1986,Hawaii,HI,0,0,0,0,0,0,0
+1987,Hawaii,HI,0,0,0,0,0,0,0
+1988,Hawaii,HI,0,0,0,0,0,0,0
+1989,Hawaii,HI,0,0,0,0,0,0,0
+1990,Hawaii,HI,0,0,0,0,0,0,0
+1991,Hawaii,HI,0,0,0,0,0,0,0
+1992,Hawaii,HI,0,0,0,0,1,0,0
+1993,Hawaii,HI,0,0,0,0,0,0,0
+1994,Hawaii,HI,0,0,0,0,0,0,0
+1995,Hawaii,HI,0,0,0,0,0,0,0
+1996,Hawaii,HI,0,0,0,0,0,0,0
+1997,Hawaii,HI,0,0,0,0,0,0,0
+1998,Hawaii,HI,0,0,0,0,0,0,0
+1999,Hawaii,HI,0,0,0,0,0,0,0
+2000,Hawaii,HI,0,0,0,0,0,0,0
+2001,Hawaii,HI,0,0,0,0,0,0,0
+2002,Hawaii,HI,0,0,0,0,0,0,0
+2003,Hawaii,HI,0,0,0,0,0,0,0
+2004,Hawaii,HI,0,0,0,0,0,0,0
+2005,Hawaii,HI,0,0,0,0,0,0,0
+2006,Hawaii,HI,0,0,0,0,0,0,0
+2007,Hawaii,HI,0,0,0,0,0,0,0
+2008,Hawaii,HI,0,0,0,0,0,0,0
+2009,Hawaii,HI,0,0,0,0,0,0,0
+2010,Hawaii,HI,0,0,0,0,0,0,0
+2011,Hawaii,HI,0,0,0,0,0,0,0
+2012,Hawaii,HI,0,0,0,0,0,0,0
+2013,Hawaii,HI,0,0,0,0,0,0,0
+2014,Hawaii,HI,0,0,0,0,0,0,0
+2015,Hawaii,HI,0,0,0,0,0,0,0
+2016,Hawaii,HI,0,0,0,0,0,0,0
+2017,Hawaii,HI,0,0,0,0,0,0,0
+1980,Iowa,IA,1,0,0,0,0,0,0
+1981,Iowa,IA,0,0,0,0,0,0,0
+1982,Iowa,IA,0,0,0,2,0,0,1
+1983,Iowa,IA,0,0,1,0,0,0,0
+1984,Iowa,IA,0,0,0,0,0,0,0
+1985,Iowa,IA,0,0,0,0,0,0,1
+1986,Iowa,IA,0,0,0,0,0,0,0
+1987,Iowa,IA,0,0,0,0,0,0,0
+1988,Iowa,IA,1,0,0,0,0,0,0
+1989,Iowa,IA,1,0,0,0,0,0,0
+1990,Iowa,IA,0,0,0,0,0,0,0
+1991,Iowa,IA,1,0,0,0,0,0,0
+1992,Iowa,IA,0,0,0,0,0,0,0
+1993,Iowa,IA,0,1,0,0,0,0,0
+1994,Iowa,IA,0,0,0,1,0,0,0
+1995,Iowa,IA,0,0,0,0,0,0,0
+1996,Iowa,IA,0,0,0,0,0,0,0
+1997,Iowa,IA,0,0,0,0,0,0,0
+1998,Iowa,IA,0,0,0,1,0,0,0
+1999,Iowa,IA,0,0,0,0,0,0,0
+2000,Iowa,IA,1,0,0,0,0,0,0
+2001,Iowa,IA,0,0,0,1,0,0,0
+2002,Iowa,IA,0,0,0,0,0,0,0
+2003,Iowa,IA,1,0,0,2,0,0,0
+2004,Iowa,IA,0,0,0,1,0,0,0
+2005,Iowa,IA,0,0,0,0,0,0,0
+2006,Iowa,IA,1,0,0,1,0,0,0
+2007,Iowa,IA,0,0,1,0,0,0,0
+2008,Iowa,IA,0,1,0,2,0,0,0
+2009,Iowa,IA,0,0,0,1,0,0,0
+2010,Iowa,IA,0,0,0,1,0,0,0
+2011,Iowa,IA,1,2,0,4,0,0,0
+2012,Iowa,IA,1,0,0,1,0,0,0
+2013,Iowa,IA,1,0,0,1,0,0,0
+2014,Iowa,IA,0,0,0,2,0,0,0
+2015,Iowa,IA,0,0,0,3,0,0,0
+2016,Iowa,IA,0,0,0,0,0,0,0
+2017,Iowa,IA,0,0,0,2,0,0,0
+1980,Idaho,ID,0,0,0,0,0,0,0
+1981,Idaho,ID,0,0,0,0,0,0,0
+1982,Idaho,ID,0,0,0,0,0,0,0
+1983,Idaho,ID,0,1,1,0,0,0,0
+1984,Idaho,ID,0,0,0,0,0,0,0
+1985,Idaho,ID,0,0,0,0,0,0,0
+1986,Idaho,ID,0,0,0,0,0,0,0
+1987,Idaho,ID,0,0,0,0,0,0,0
+1988,Idaho,ID,1,0,0,0,0,0,0
+1989,Idaho,ID,0,0,0,0,0,0,0
+1990,Idaho,ID,0,0,0,0,0,0,0
+1991,Idaho,ID,0,0,0,0,0,0,0
+1992,Idaho,ID,0,0,0,0,0,0,0
+1993,Idaho,ID,0,0,0,0,0,0,0
+1994,Idaho,ID,0,0,0,0,0,0,0
+1995,Idaho,ID,0,0,0,0,0,0,0
+1996,Idaho,ID,0,1,0,0,0,0,0
+1997,Idaho,ID,0,1,0,0,0,0,0
+1998,Idaho,ID,0,0,0,0,0,0,0
+1999,Idaho,ID,0,0,0,0,0,0,0
+2000,Idaho,ID,0,0,0,0,0,1,0
+2001,Idaho,ID,0,0,0,0,0,0,0
+2002,Idaho,ID,1,0,0,0,0,0,0
+2003,Idaho,ID,1,0,0,0,0,1,0
+2004,Idaho,ID,0,0,0,0,0,0,0
+2005,Idaho,ID,0,0,0,0,0,0,0
+2006,Idaho,ID,0,0,0,0,0,1,0
+2007,Idaho,ID,1,0,0,0,0,1,0
+2008,Idaho,ID,1,0,0,0,0,1,0
+2009,Idaho,ID,1,0,0,0,0,0,0
+2010,Idaho,ID,0,0,0,0,0,0,0
+2011,Idaho,ID,0,0,0,0,0,1,0
+2012,Idaho,ID,1,0,0,0,0,1,0
+2013,Idaho,ID,1,0,0,0,0,0,0
+2014,Idaho,ID,1,0,0,0,0,0,0
+2015,Idaho,ID,1,0,0,0,0,1,0
+2016,Idaho,ID,0,0,0,0,0,1,0
+2017,Idaho,ID,0,0,0,0,0,0,0
+1980,Illinois,IL,1,0,0,0,0,0,0
+1981,Illinois,IL,0,0,0,0,0,0,0
+1982,Illinois,IL,0,0,0,2,0,0,1
+1983,Illinois,IL,0,0,1,0,0,0,0
+1984,Illinois,IL,0,0,0,1,0,0,0
+1985,Illinois,IL,0,0,0,0,0,0,1
+1986,Illinois,IL,0,0,0,0,0,0,0
+1987,Illinois,IL,0,0,0,0,0,0,0
+1988,Illinois,IL,1,0,0,0,0,0,0
+1989,Illinois,IL,1,0,0,0,0,0,1
+1990,Illinois,IL,0,0,0,0,0,0,0
+1991,Illinois,IL,1,0,0,1,0,0,0
+1992,Illinois,IL,0,0,0,0,0,0,0
+1993,Illinois,IL,0,1,0,0,0,0,0
+1994,Illinois,IL,0,0,0,1,0,0,1
+1995,Illinois,IL,0,0,0,1,0,0,0
+1996,Illinois,IL,0,0,0,0,0,0,0
+1997,Illinois,IL,0,0,0,0,0,0,0
+1998,Illinois,IL,0,0,0,0,0,0,0
+1999,Illinois,IL,0,0,0,1,0,0,2
+2000,Illinois,IL,0,0,0,0,0,0,0
+2001,Illinois,IL,0,0,0,1,0,0,0
+2002,Illinois,IL,1,0,0,1,0,0,0
+2003,Illinois,IL,1,0,0,4,0,0,0
+2004,Illinois,IL,0,0,0,1,0,0,0
+2005,Illinois,IL,1,0,0,0,0,0,0
+2006,Illinois,IL,0,0,0,2,0,0,0
+2007,Illinois,IL,0,0,1,0,0,0,0
+2008,Illinois,IL,0,1,0,2,1,0,0
+2009,Illinois,IL,0,0,0,0,0,0,0
+2010,Illinois,IL,0,0,0,2,0,0,0
+2011,Illinois,IL,1,0,0,6,0,0,1
+2012,Illinois,IL,1,0,0,2,0,0,0
+2013,Illinois,IL,1,1,0,3,0,0,0
+2014,Illinois,IL,0,0,0,2,0,0,1
+2015,Illinois,IL,0,0,0,3,0,0,1
+2016,Illinois,IL,0,1,0,3,0,0,0
+2017,Illinois,IL,0,0,0,2,0,0,0
+1980,Indiana,IN,0,0,0,0,0,0,0
+1981,Indiana,IN,0,0,0,0,0,0,0
+1982,Indiana,IN,0,0,0,2,0,0,1
+1983,Indiana,IN,0,0,1,0,0,0,0
+1984,Indiana,IN,0,0,0,0,0,0,0
+1985,Indiana,IN,0,0,0,0,0,0,1
+1986,Indiana,IN,0,0,0,0,0,0,0
+1987,Indiana,IN,0,0,0,0,0,0,0
+1988,Indiana,IN,1,0,0,0,0,0,0
+1989,Indiana,IN,0,0,0,0,0,0,1
+1990,Indiana,IN,0,0,0,0,0,0,0
+1991,Indiana,IN,1,0,0,1,0,0,0
+1992,Indiana,IN,0,0,0,0,0,0,0
+1993,Indiana,IN,0,1,0,0,0,0,0
+1994,Indiana,IN,0,0,0,1,0,0,1
+1995,Indiana,IN,0,0,0,0,0,0,0
+1996,Indiana,IN,0,0,0,0,0,0,0
+1997,Indiana,IN,0,0,0,0,0,0,0
+1998,Indiana,IN,0,0,0,0,0,0,0
+1999,Indiana,IN,0,0,0,1,0,0,2
+2000,Indiana,IN,0,0,0,0,0,0,0
+2001,Indiana,IN,0,0,0,1,0,0,0
+2002,Indiana,IN,1,0,0,1,0,0,0
+2003,Indiana,IN,0,0,0,4,0,0,0
+2004,Indiana,IN,0,0,0,1,0,0,0
+2005,Indiana,IN,0,0,0,0,0,0,0
+2006,Indiana,IN,0,0,0,3,0,0,0
+2007,Indiana,IN,1,0,1,0,0,0,0
+2008,Indiana,IN,1,1,0,3,1,0,0
+2009,Indiana,IN,0,0,0,0,0,0,0
+2010,Indiana,IN,0,0,0,0,0,0,0
+2011,Indiana,IN,1,0,0,3,0,0,1
+2012,Indiana,IN,1,0,0,3,0,0,0
+2013,Indiana,IN,0,1,0,3,0,0,0
+2014,Indiana,IN,0,0,0,1,0,0,1
+2015,Indiana,IN,0,0,0,1,0,0,0
+2016,Indiana,IN,0,1,0,1,0,0,0
+2017,Indiana,IN,0,0,0,1,0,0,0
+1980,Kansas,KS,1,0,0,0,0,0,0
+1981,Kansas,KS,0,0,0,1,0,0,0
+1982,Kansas,KS,0,0,0,2,0,0,1
+1983,Kansas,KS,0,0,1,0,0,0,0
+1984,Kansas,KS,0,0,0,0,0,0,0
+1985,Kansas,KS,0,0,0,0,0,0,0
+1986,Kansas,KS,0,0,0,0,0,0,0
+1987,Kansas,KS,0,0,0,0,0,0,0
+1988,Kansas,KS,1,0,0,0,0,0,0
+1989,Kansas,KS,1,0,0,0,0,0,0
+1990,Kansas,KS,0,0,0,0,0,0,0
+1991,Kansas,KS,1,0,0,1,0,0,0
+1992,Kansas,KS,0,0,0,1,0,0,0
+1993,Kansas,KS,0,1,0,0,0,0,0
+1994,Kansas,KS,0,0,0,1,0,0,0
+1995,Kansas,KS,0,0,0,0,0,0,0
+1996,Kansas,KS,1,0,0,0,0,0,0
+1997,Kansas,KS,0,0,0,0,0,0,0
+1998,Kansas,KS,0,0,0,0,0,0,0
+1999,Kansas,KS,0,0,0,1,0,0,0
+2000,Kansas,KS,1,0,0,0,0,0,0
+2001,Kansas,KS,0,0,0,1,0,0,0
+2002,Kansas,KS,1,0,0,1,0,0,0
+2003,Kansas,KS,1,0,0,1,0,0,0
+2004,Kansas,KS,0,0,0,0,0,0,0
+2005,Kansas,KS,0,0,0,0,0,0,0
+2006,Kansas,KS,1,0,0,2,0,0,0
+2007,Kansas,KS,0,0,1,0,0,0,0
+2008,Kansas,KS,1,1,0,2,0,0,0
+2009,Kansas,KS,1,0,0,2,0,0,0
+2010,Kansas,KS,0,0,0,1,0,0,0
+2011,Kansas,KS,1,1,0,5,0,0,0
+2012,Kansas,KS,1,0,0,2,0,0,0
+2013,Kansas,KS,1,0,0,3,0,0,0
+2014,Kansas,KS,1,0,0,4,0,0,0
+2015,Kansas,KS,0,1,0,3,0,0,0
+2016,Kansas,KS,0,0,0,2,0,0,0
+2017,Kansas,KS,0,0,0,1,0,0,0
+1980,Kentucky,KY,1,0,0,0,0,0,0
+1981,Kentucky,KY,0,0,0,0,0,0,0
+1982,Kentucky,KY,0,0,0,2,0,0,1
+1983,Kentucky,KY,1,0,1,0,0,0,0
+1984,Kentucky,KY,0,0,0,0,0,0,0
+1985,Kentucky,KY,0,0,0,0,0,0,1
+1986,Kentucky,KY,0,0,0,0,0,0,0
+1987,Kentucky,KY,0,0,0,0,0,0,0
+1988,Kentucky,KY,1,0,0,0,0,0,0
+1989,Kentucky,KY,0,0,0,0,0,0,1
+1990,Kentucky,KY,0,0,0,0,0,0,0
+1991,Kentucky,KY,0,0,0,1,0,0,0
+1992,Kentucky,KY,0,0,0,0,0,0,0
+1993,Kentucky,KY,0,0,0,0,0,0,1
+1994,Kentucky,KY,0,0,0,0,0,0,2
+1995,Kentucky,KY,0,0,0,0,0,0,0
+1996,Kentucky,KY,0,0,0,0,0,0,1
+1997,Kentucky,KY,0,0,0,1,0,0,0
+1998,Kentucky,KY,0,0,0,1,0,0,0
+1999,Kentucky,KY,1,0,0,1,0,0,1
+2000,Kentucky,KY,0,0,0,0,0,0,0
+2001,Kentucky,KY,0,0,0,1,0,0,0
+2002,Kentucky,KY,1,0,0,1,0,0,0
+2003,Kentucky,KY,0,0,0,2,0,0,0
+2004,Kentucky,KY,0,0,0,1,1,0,0
+2005,Kentucky,KY,0,0,0,0,1,0,0
+2006,Kentucky,KY,0,0,0,2,0,0,0
+2007,Kentucky,KY,1,0,1,0,0,0,0
+2008,Kentucky,KY,1,0,0,1,1,0,0
+2009,Kentucky,KY,0,0,0,4,0,0,0
+2010,Kentucky,KY,0,1,0,0,0,0,0
+2011,Kentucky,KY,1,0,0,4,0,0,0
+2012,Kentucky,KY,1,0,0,3,0,0,0
+2013,Kentucky,KY,0,0,0,1,0,0,0
+2014,Kentucky,KY,0,0,0,0,0,0,1
+2015,Kentucky,KY,0,0,0,2,0,0,1
+2016,Kentucky,KY,0,0,0,1,0,0,0
+2017,Kentucky,KY,0,0,1,1,0,0,0
+1980,Louisiana,LA,1,1,0,0,1,0,0
+1981,Louisiana,LA,0,0,0,1,0,0,0
+1982,Louisiana,LA,0,0,0,1,0,0,1
+1983,Louisiana,LA,1,1,1,0,0,0,0
+1984,Louisiana,LA,0,0,0,0,0,0,0
+1985,Louisiana,LA,0,0,0,0,2,0,1
+1986,Louisiana,LA,1,0,0,0,0,0,0
+1987,Louisiana,LA,0,0,0,0,0,0,0
+1988,Louisiana,LA,1,0,0,0,0,0,0
+1989,Louisiana,LA,0,0,0,1,0,0,1
+1990,Louisiana,LA,0,1,0,0,0,0,0
+1991,Louisiana,LA,0,0,0,0,0,0,0
+1992,Louisiana,LA,0,0,0,1,1,0,0
+1993,Louisiana,LA,0,0,0,0,0,0,1
+1994,Louisiana,LA,0,0,0,0,0,0,1
+1995,Louisiana,LA,0,0,0,1,0,0,0
+1996,Louisiana,LA,0,0,0,0,0,0,0
+1997,Louisiana,LA,0,0,0,0,0,0,0
+1998,Louisiana,LA,1,0,0,1,1,0,0
+1999,Louisiana,LA,1,0,0,1,0,0,1
+2000,Louisiana,LA,1,0,0,0,0,0,0
+2001,Louisiana,LA,0,0,0,0,1,0,0
+2002,Louisiana,LA,1,0,0,0,1,0,0
+2003,Louisiana,LA,0,0,0,1,0,0,0
+2004,Louisiana,LA,0,0,0,0,1,0,0
+2005,Louisiana,LA,0,0,0,0,2,0,0
+2006,Louisiana,LA,1,0,0,0,0,0,0
+2007,Louisiana,LA,0,0,0,1,0,0,0
+2008,Louisiana,LA,0,0,0,0,2,0,0
+2009,Louisiana,LA,1,0,0,1,0,0,0
+2010,Louisiana,LA,0,0,0,0,0,0,0
+2011,Louisiana,LA,1,1,0,1,1,0,0
+2012,Louisiana,LA,0,0,0,0,1,0,0
+2013,Louisiana,LA,0,0,0,0,0,0,0
+2014,Louisiana,LA,0,0,0,0,0,0,0
+2015,Louisiana,LA,0,1,0,1,0,0,0
+2016,Louisiana,LA,0,2,0,2,0,0,0
+2017,Louisiana,LA,0,0,0,1,0,0,0
+1980,Massachusetts,MA,0,0,0,0,0,0,0
+1981,Massachusetts,MA,0,0,0,0,0,0,0
+1982,Massachusetts,MA,0,0,0,1,0,0,1
+1983,Massachusetts,MA,0,0,1,0,0,0,0
+1984,Massachusetts,MA,0,0,0,1,0,0,0
+1985,Massachusetts,MA,0,0,0,0,1,0,0
+1986,Massachusetts,MA,0,0,0,0,0,0,0
+1987,Massachusetts,MA,0,0,0,0,0,0,0
+1988,Massachusetts,MA,0,0,0,0,0,0,0
+1989,Massachusetts,MA,0,0,0,0,0,0,0
+1990,Massachusetts,MA,0,0,0,0,0,0,0
+1991,Massachusetts,MA,0,0,0,0,1,0,0
+1992,Massachusetts,MA,0,0,0,0,0,0,1
+1993,Massachusetts,MA,0,0,0,0,0,0,1
+1994,Massachusetts,MA,0,0,0,0,0,0,2
+1995,Massachusetts,MA,0,0,0,0,0,0,0
+1996,Massachusetts,MA,0,0,0,0,0,0,1
+1997,Massachusetts,MA,0,0,0,1,0,0,0
+1998,Massachusetts,MA,0,0,0,1,0,0,0
+1999,Massachusetts,MA,0,0,0,0,1,0,2
+2000,Massachusetts,MA,0,0,0,0,0,0,0
+2001,Massachusetts,MA,0,0,0,0,0,0,0
+2002,Massachusetts,MA,0,0,0,0,0,0,0
+2003,Massachusetts,MA,0,0,0,0,0,0,0
+2004,Massachusetts,MA,0,0,0,0,0,0,0
+2005,Massachusetts,MA,0,0,0,0,0,0,0
+2006,Massachusetts,MA,0,0,0,0,0,0,0
+2007,Massachusetts,MA,0,0,0,1,0,0,0
+2008,Massachusetts,MA,0,0,0,0,0,0,0
+2009,Massachusetts,MA,0,0,0,0,0,0,0
+2010,Massachusetts,MA,0,1,0,0,0,0,0
+2011,Massachusetts,MA,0,0,0,0,1,0,1
+2012,Massachusetts,MA,0,0,0,0,1,0,0
+2013,Massachusetts,MA,0,0,0,0,0,0,0
+2014,Massachusetts,MA,0,0,0,0,0,0,0
+2015,Massachusetts,MA,0,0,0,0,0,0,1
+2016,Massachusetts,MA,1,0,0,1,0,0,0
+2017,Massachusetts,MA,0,0,0,0,0,0,0
+1980,Maryland,MD,0,0,0,0,0,0,0
+1981,Maryland,MD,0,0,0,0,0,0,0
+1982,Maryland,MD,0,0,0,0,0,0,1
+1983,Maryland,MD,0,0,1,0,0,0,0
+1984,Maryland,MD,0,0,0,1,0,0,0
+1985,Maryland,MD,0,0,0,0,1,0,1
+1986,Maryland,MD,0,0,0,0,0,0,0
+1987,Maryland,MD,0,0,0,0,0,0,0
+1988,Maryland,MD,1,0,0,0,0,0,0
+1989,Maryland,MD,0,0,0,0,0,0,0
+1990,Maryland,MD,0,0,0,0,0,0,0
+1991,Maryland,MD,0,0,0,0,0,0,0
+1992,Maryland,MD,0,0,0,0,0,0,1
+1993,Maryland,MD,1,0,0,0,0,0,1
+1994,Maryland,MD,0,0,0,0,0,0,2
+1995,Maryland,MD,0,0,0,0,0,0,0
+1996,Maryland,MD,0,0,0,0,1,0,1
+1997,Maryland,MD,0,0,0,0,0,0,0
+1998,Maryland,MD,0,0,0,1,0,0,0
+1999,Maryland,MD,1,0,0,0,1,0,2
+2000,Maryland,MD,0,0,0,0,0,0,0
+2001,Maryland,MD,0,0,0,0,0,0,0
+2002,Maryland,MD,1,0,0,1,0,0,0
+2003,Maryland,MD,0,0,0,0,1,0,0
+2004,Maryland,MD,0,0,0,0,2,0,0
+2005,Maryland,MD,0,0,0,0,0,0,0
+2006,Maryland,MD,0,1,0,0,0,0,0
+2007,Maryland,MD,1,0,0,1,0,0,0
+2008,Maryland,MD,1,0,0,0,0,0,0
+2009,Maryland,MD,0,0,0,1,0,0,0
+2010,Maryland,MD,0,0,0,2,0,0,0
+2011,Maryland,MD,1,0,0,0,2,0,0
+2012,Maryland,MD,1,0,0,1,1,0,0
+2013,Maryland,MD,0,0,0,0,0,0,0
+2014,Maryland,MD,0,1,0,1,0,0,1
+2015,Maryland,MD,0,1,0,1,0,0,1
+2016,Maryland,MD,0,0,0,3,0,0,0
+2017,Maryland,MD,0,0,0,1,0,0,0
+1980,Maine,ME,0,0,0,0,0,0,0
+1981,Maine,ME,0,0,0,0,0,0,0
+1982,Maine,ME,0,0,0,0,0,0,1
+1983,Maine,ME,0,0,0,0,0,0,0
+1984,Maine,ME,0,0,0,0,0,0,0
+1985,Maine,ME,0,0,0,0,1,0,0
+1986,Maine,ME,0,0,0,0,0,0,0
+1987,Maine,ME,0,0,0,0,0,0,0
+1988,Maine,ME,0,0,0,0,0,0,0
+1989,Maine,ME,0,0,0,0,0,0,1
+1990,Maine,ME,0,0,0,0,0,0,0
+1991,Maine,ME,0,0,0,0,1,0,0
+1992,Maine,ME,0,0,0,0,0,0,0
+1993,Maine,ME,0,0,0,0,0,0,1
+1994,Maine,ME,0,0,0,0,0,0,1
+1995,Maine,ME,0,0,0,0,0,0,0
+1996,Maine,ME,0,0,0,0,0,0,0
+1997,Maine,ME,0,0,0,1,0,0,0
+1998,Maine,ME,0,0,0,0,0,0,1
+1999,Maine,ME,0,0,0,0,0,0,2
+2000,Maine,ME,0,0,0,0,0,0,0
+2001,Maine,ME,0,0,0,0,0,0,0
+2002,Maine,ME,0,0,0,0,0,0,0
+2003,Maine,ME,0,0,0,0,0,0,0
+2004,Maine,ME,0,0,0,0,0,0,0
+2005,Maine,ME,0,0,0,0,0,0,0
+2006,Maine,ME,0,0,0,0,0,0,0
+2007,Maine,ME,0,0,0,1,0,0,0
+2008,Maine,ME,0,0,0,0,0,0,0
+2009,Maine,ME,0,0,0,0,0,0,0
+2010,Maine,ME,0,0,0,0,0,0,0
+2011,Maine,ME,0,0,0,0,0,0,0
+2012,Maine,ME,0,0,0,0,0,0,0
+2013,Maine,ME,0,0,0,0,0,0,0
+2014,Maine,ME,0,0,0,0,0,0,0
+2015,Maine,ME,0,0,0,0,0,0,1
+2016,Maine,ME,1,0,0,0,0,0,0
+2017,Maine,ME,0,0,0,0,0,0,0
+1980,Michigan,MI,0,0,0,0,0,0,0
+1981,Michigan,MI,0,0,0,0,0,0,0
+1982,Michigan,MI,0,0,0,1,0,0,1
+1983,Michigan,MI,0,0,1,0,0,0,0
+1984,Michigan,MI,0,0,0,0,0,0,0
+1985,Michigan,MI,0,0,0,0,0,0,1
+1986,Michigan,MI,0,0,0,0,0,0,0
+1987,Michigan,MI,0,0,0,0,0,0,0
+1988,Michigan,MI,1,0,0,0,0,0,0
+1989,Michigan,MI,0,0,0,0,0,0,0
+1990,Michigan,MI,0,0,0,0,0,0,0
+1991,Michigan,MI,0,0,0,1,0,0,0
+1992,Michigan,MI,0,0,0,0,0,0,0
+1993,Michigan,MI,0,0,0,0,0,0,0
+1994,Michigan,MI,0,0,0,0,0,0,0
+1995,Michigan,MI,0,0,0,0,0,0,0
+1996,Michigan,MI,0,0,0,0,0,0,0
+1997,Michigan,MI,0,0,0,0,0,0,0
+1998,Michigan,MI,0,0,0,1,0,0,0
+1999,Michigan,MI,0,0,0,0,0,0,1
+2000,Michigan,MI,0,0,0,0,0,0,0
+2001,Michigan,MI,0,0,0,1,0,0,0
+2002,Michigan,MI,0,0,0,0,0,0,0
+2003,Michigan,MI,1,0,0,3,0,0,0
+2004,Michigan,MI,0,0,0,1,0,0,0
+2005,Michigan,MI,0,0,0,0,0,0,0
+2006,Michigan,MI,0,0,0,0,0,0,0
+2007,Michigan,MI,1,0,0,0,0,0,0
+2008,Michigan,MI,0,1,0,1,0,0,0
+2009,Michigan,MI,0,0,0,0,0,0,0
+2010,Michigan,MI,0,0,0,0,0,0,0
+2011,Michigan,MI,0,0,0,2,0,0,0
+2012,Michigan,MI,1,0,0,0,0,0,0
+2013,Michigan,MI,1,0,0,1,0,0,0
+2014,Michigan,MI,0,1,0,0,0,0,1
+2015,Michigan,MI,0,0,0,2,0,0,1
+2016,Michigan,MI,0,0,0,1,0,0,0
+2017,Michigan,MI,0,0,0,2,0,0,0
+1980,Minnesota,MN,1,0,0,0,0,0,0
+1981,Minnesota,MN,0,0,0,0,0,0,0
+1982,Minnesota,MN,0,0,0,1,0,0,1
+1983,Minnesota,MN,0,0,1,0,0,0,0
+1984,Minnesota,MN,0,0,0,0,0,0,0
+1985,Minnesota,MN,0,0,0,0,0,0,1
+1986,Minnesota,MN,0,0,0,0,0,0,0
+1987,Minnesota,MN,0,0,0,0,0,0,0
+1988,Minnesota,MN,1,0,0,0,0,0,0
+1989,Minnesota,MN,0,0,0,0,0,0,0
+1990,Minnesota,MN,0,0,0,0,0,0,0
+1991,Minnesota,MN,1,0,0,0,0,0,0
+1992,Minnesota,MN,0,0,0,0,0,0,0
+1993,Minnesota,MN,0,1,0,0,0,0,0
+1994,Minnesota,MN,0,0,0,1,0,0,0
+1995,Minnesota,MN,0,0,0,0,0,0,0
+1996,Minnesota,MN,0,0,0,0,0,0,0
+1997,Minnesota,MN,0,1,0,0,0,0,0
+1998,Minnesota,MN,0,0,0,2,0,0,0
+1999,Minnesota,MN,0,0,0,0,0,0,0
+2000,Minnesota,MN,0,0,0,0,0,0,0
+2001,Minnesota,MN,0,0,0,1,0,0,0
+2002,Minnesota,MN,0,0,0,0,0,0,0
+2003,Minnesota,MN,1,0,0,1,0,1,0
+2004,Minnesota,MN,0,0,0,0,0,0,0
+2005,Minnesota,MN,0,0,0,0,0,0,0
+2006,Minnesota,MN,1,0,0,0,0,0,0
+2007,Minnesota,MN,1,0,0,0,0,1,0
+2008,Minnesota,MN,1,1,0,2,0,0,0
+2009,Minnesota,MN,0,0,0,0,0,0,0
+2010,Minnesota,MN,0,0,0,0,0,0,0
+2011,Minnesota,MN,0,0,0,2,0,0,0
+2012,Minnesota,MN,1,0,0,1,0,0,0
+2013,Minnesota,MN,1,0,0,1,0,0,0
+2014,Minnesota,MN,0,0,0,0,0,0,0
+2015,Minnesota,MN,0,0,0,0,0,0,0
+2016,Minnesota,MN,0,0,0,0,0,0,0
+2017,Minnesota,MN,0,0,0,1,0,0,0
+1980,Missouri,MO,1,0,0,0,0,0,0
+1981,Missouri,MO,0,0,0,0,0,0,0
+1982,Missouri,MO,0,0,0,2,0,0,1
+1983,Missouri,MO,1,0,1,0,0,0,0
+1984,Missouri,MO,0,0,0,1,0,0,0
+1985,Missouri,MO,0,0,0,0,0,0,1
+1986,Missouri,MO,0,0,0,0,0,0,0
+1987,Missouri,MO,0,0,0,0,0,0,0
+1988,Missouri,MO,1,0,0,0,0,0,0
+1989,Missouri,MO,1,0,0,0,0,0,1
+1990,Missouri,MO,0,0,0,0,0,0,0
+1991,Missouri,MO,1,0,0,1,0,0,0
+1992,Missouri,MO,0,0,0,0,0,0,0
+1993,Missouri,MO,0,1,0,0,0,0,0
+1994,Missouri,MO,0,0,0,1,0,0,0
+1995,Missouri,MO,0,0,0,1,0,0,0
+1996,Missouri,MO,0,0,0,0,0,0,1
+1997,Missouri,MO,0,0,0,0,0,0,0
+1998,Missouri,MO,0,0,0,0,0,0,0
+1999,Missouri,MO,0,0,0,1,0,0,1
+2000,Missouri,MO,0,0,0,0,0,0,0
+2001,Missouri,MO,0,0,0,1,0,0,0
+2002,Missouri,MO,1,0,0,1,0,0,0
+2003,Missouri,MO,1,0,0,2,0,0,0
+2004,Missouri,MO,0,0,0,1,0,0,0
+2005,Missouri,MO,1,0,0,0,0,0,0
+2006,Missouri,MO,0,0,0,1,0,0,0
+2007,Missouri,MO,0,0,1,0,0,0,0
+2008,Missouri,MO,0,1,0,1,1,0,0
+2009,Missouri,MO,0,0,0,2,0,0,0
+2010,Missouri,MO,0,0,0,0,0,0,0
+2011,Missouri,MO,1,2,0,6,0,0,0
+2012,Missouri,MO,1,0,0,1,0,0,0
+2013,Missouri,MO,1,1,0,4,0,0,0
+2014,Missouri,MO,0,0,0,2,0,0,1
+2015,Missouri,MO,0,0,0,2,0,0,0
+2016,Missouri,MO,0,0,0,3,0,0,0
+2017,Missouri,MO,0,0,0,2,0,0,0
+1980,Mississippi,MS,1,1,0,0,0,0,0
+1981,Mississippi,MS,0,0,0,0,0,0,0
+1982,Mississippi,MS,0,0,0,1,0,0,1
+1983,Mississippi,MS,1,1,1,0,0,0,0
+1984,Mississippi,MS,0,0,0,0,0,0,0
+1985,Mississippi,MS,0,0,0,0,2,0,1
+1986,Mississippi,MS,1,0,0,0,0,0,0
+1987,Mississippi,MS,0,0,0,0,0,0,0
+1988,Mississippi,MS,1,0,0,0,0,0,0
+1989,Mississippi,MS,0,0,0,1,0,0,1
+1990,Mississippi,MS,0,0,0,0,0,0,0
+1991,Mississippi,MS,0,0,0,0,0,0,0
+1992,Mississippi,MS,0,0,0,0,0,0,0
+1993,Mississippi,MS,0,1,0,0,0,0,1
+1994,Mississippi,MS,0,0,0,0,0,0,1
+1995,Mississippi,MS,0,0,0,1,0,0,0
+1996,Mississippi,MS,0,0,0,0,0,0,0
+1997,Mississippi,MS,0,0,0,1,0,0,0
+1998,Mississippi,MS,1,0,0,1,1,0,0
+1999,Mississippi,MS,1,0,0,1,0,0,1
+2000,Mississippi,MS,1,0,0,0,0,0,0
+2001,Mississippi,MS,0,0,0,0,1,0,0
+2002,Mississippi,MS,0,0,0,1,1,0,0
+2003,Mississippi,MS,0,0,0,3,0,0,0
+2004,Mississippi,MS,0,0,0,0,1,0,0
+2005,Mississippi,MS,0,0,0,0,3,0,0
+2006,Mississippi,MS,1,0,0,1,0,1,0
+2007,Mississippi,MS,1,0,1,1,0,0,0
+2008,Mississippi,MS,1,0,0,1,1,0,0
+2009,Mississippi,MS,0,0,0,2,0,0,0
+2010,Mississippi,MS,0,0,0,0,0,0,0
+2011,Mississippi,MS,1,1,0,2,1,0,0
+2012,Mississippi,MS,1,0,0,0,1,0,0
+2013,Mississippi,MS,0,0,0,1,0,0,0
+2014,Mississippi,MS,0,0,0,1,0,0,1
+2015,Mississippi,MS,0,0,0,1,0,0,0
+2016,Mississippi,MS,1,0,0,2,0,0,0
+2017,Mississippi,MS,0,0,1,1,0,0,0
+1980,Montana,MT,1,0,0,0,0,0,0
+1981,Montana,MT,0,0,0,0,0,0,0
+1982,Montana,MT,0,0,0,0,0,0,0
+1983,Montana,MT,0,1,1,0,0,0,0
+1984,Montana,MT,0,0,0,0,0,0,0
+1985,Montana,MT,0,0,0,0,0,0,0
+1986,Montana,MT,0,0,0,0,0,0,0
+1987,Montana,MT,0,0,0,0,0,0,0
+1988,Montana,MT,1,0,0,0,0,0,0
+1989,Montana,MT,0,0,0,0,0,0,0
+1990,Montana,MT,0,0,0,0,0,0,0
+1991,Montana,MT,0,0,0,0,0,0,0
+1992,Montana,MT,0,0,0,0,0,0,0
+1993,Montana,MT,0,0,0,0,0,0,0
+1994,Montana,MT,0,0,0,0,0,0,0
+1995,Montana,MT,0,0,0,0,0,0,0
+1996,Montana,MT,0,1,0,0,0,0,0
+1997,Montana,MT,0,1,0,0,0,0,0
+1998,Montana,MT,0,0,0,0,0,0,0
+1999,Montana,MT,0,0,0,0,0,0,0
+2000,Montana,MT,1,0,0,0,0,1,0
+2001,Montana,MT,0,0,0,0,0,0,0
+2002,Montana,MT,1,0,0,0,0,0,0
+2003,Montana,MT,1,0,0,0,0,1,0
+2004,Montana,MT,0,0,0,0,0,0,0
+2005,Montana,MT,0,0,0,0,0,0,0
+2006,Montana,MT,1,0,0,0,0,1,0
+2007,Montana,MT,0,0,0,0,0,1,0
+2008,Montana,MT,1,0,0,0,0,1,0
+2009,Montana,MT,0,0,0,0,0,0,0
+2010,Montana,MT,0,0,0,0,0,0,0
+2011,Montana,MT,0,1,0,0,0,1,0
+2012,Montana,MT,1,0,0,0,0,1,0
+2013,Montana,MT,0,0,0,0,0,0,0
+2014,Montana,MT,0,0,0,1,0,0,0
+2015,Montana,MT,1,0,0,0,0,1,0
+2016,Montana,MT,0,0,0,1,0,0,0
+2017,Montana,MT,0,0,0,0,0,0,0
+1980,North Carolina,NC,1,0,0,0,0,0,0
+1981,North Carolina,NC,0,0,0,0,0,0,0
+1982,North Carolina,NC,0,0,0,0,0,0,1
+1983,North Carolina,NC,1,0,1,0,0,0,0
+1984,North Carolina,NC,0,0,0,1,0,0,0
+1985,North Carolina,NC,0,0,0,0,1,0,1
+1986,North Carolina,NC,1,0,0,0,0,0,0
+1987,North Carolina,NC,0,0,0,0,0,0,0
+1988,North Carolina,NC,0,0,0,0,0,0,0
+1989,North Carolina,NC,0,0,0,1,1,0,1
+1990,North Carolina,NC,0,0,0,0,0,0,0
+1991,North Carolina,NC,0,0,0,1,1,0,0
+1992,North Carolina,NC,0,0,0,0,0,0,0
+1993,North Carolina,NC,1,0,0,0,0,0,1
+1994,North Carolina,NC,0,0,0,0,0,0,2
+1995,North Carolina,NC,0,0,0,0,1,0,0
+1996,North Carolina,NC,0,0,0,0,1,0,1
+1997,North Carolina,NC,0,0,0,1,0,0,0
+1998,North Carolina,NC,1,0,0,2,1,0,0
+1999,North Carolina,NC,1,0,0,1,1,0,1
+2000,North Carolina,NC,0,0,0,0,0,0,0
+2001,North Carolina,NC,0,0,0,0,0,0,0
+2002,North Carolina,NC,1,0,0,1,0,0,0
+2003,North Carolina,NC,0,0,0,1,1,0,0
+2004,North Carolina,NC,0,0,0,1,4,0,0
+2005,North Carolina,NC,0,0,0,0,0,0,0
+2006,North Carolina,NC,0,0,0,0,0,0,0
+2007,North Carolina,NC,1,0,1,1,0,0,0
+2008,North Carolina,NC,1,0,0,0,0,1,0
+2009,North Carolina,NC,1,0,0,1,0,0,0
+2010,North Carolina,NC,0,0,0,0,0,0,0
+2011,North Carolina,NC,1,0,0,4,1,0,0
+2012,North Carolina,NC,0,0,0,1,1,0,0
+2013,North Carolina,NC,0,0,0,0,0,0,0
+2014,North Carolina,NC,0,0,0,1,0,0,1
+2015,North Carolina,NC,0,1,0,2,0,0,1
+2016,North Carolina,NC,1,0,0,2,1,1,0
+2017,North Carolina,NC,0,0,1,1,0,0,0
+1980,North Dakota,ND,1,0,0,0,0,0,0
+1981,North Dakota,ND,0,0,0,0,0,0,0
+1982,North Dakota,ND,0,0,0,0,0,0,1
+1983,North Dakota,ND,0,0,1,0,0,0,0
+1984,North Dakota,ND,0,0,0,0,0,0,0
+1985,North Dakota,ND,0,0,0,0,0,0,0
+1986,North Dakota,ND,0,0,0,0,0,0,0
+1987,North Dakota,ND,0,0,0,0,0,0,0
+1988,North Dakota,ND,1,0,0,0,0,0,0
+1989,North Dakota,ND,1,0,0,0,0,0,0
+1990,North Dakota,ND,0,0,0,0,0,0,0
+1991,North Dakota,ND,0,0,0,0,0,0,0
+1992,North Dakota,ND,0,0,0,0,0,0,0
+1993,North Dakota,ND,0,1,0,0,0,0,0
+1994,North Dakota,ND,0,0,0,0,0,0,0
+1995,North Dakota,ND,0,0,0,0,0,0,0
+1996,North Dakota,ND,0,0,0,0,0,0,0
+1997,North Dakota,ND,0,1,0,0,0,0,0
+1998,North Dakota,ND,0,0,0,0,0,0,0
+1999,North Dakota,ND,0,0,0,0,0,0,0
+2000,North Dakota,ND,0,0,0,0,0,0,0
+2001,North Dakota,ND,0,0,0,0,0,0,0
+2002,North Dakota,ND,1,0,0,0,0,0,0
+2003,North Dakota,ND,1,0,0,0,0,0,0
+2004,North Dakota,ND,0,0,0,0,0,0,0
+2005,North Dakota,ND,0,0,0,0,0,0,0
+2006,North Dakota,ND,1,0,0,0,0,0,0
+2007,North Dakota,ND,0,0,0,0,0,0,0
+2008,North Dakota,ND,1,0,0,0,0,0,0
+2009,North Dakota,ND,0,0,0,0,0,0,0
+2010,North Dakota,ND,0,0,0,0,0,0,0
+2011,North Dakota,ND,0,1,0,0,0,0,0
+2012,North Dakota,ND,1,0,0,0,0,0,0
+2013,North Dakota,ND,1,0,0,0,0,0,0
+2014,North Dakota,ND,0,0,0,0,0,0,0
+2015,North Dakota,ND,0,0,0,0,0,1,0
+2016,North Dakota,ND,0,0,0,0,0,0,0
+2017,North Dakota,ND,0,0,0,0,0,0,0
+1980,Nebraska,NE,1,0,0,0,0,0,0
+1981,Nebraska,NE,0,0,0,0,0,0,0
+1982,Nebraska,NE,0,0,0,1,0,0,0
+1983,Nebraska,NE,0,0,1,0,0,0,0
+1984,Nebraska,NE,0,0,0,0,0,0,0
+1985,Nebraska,NE,0,0,0,0,0,0,0
+1986,Nebraska,NE,0,0,0,0,0,0,0
+1987,Nebraska,NE,0,0,0,0,0,0,0
+1988,Nebraska,NE,1,0,0,0,0,0,0
+1989,Nebraska,NE,1,0,0,0,0,0,0
+1990,Nebraska,NE,0,0,0,0,0,0,0
+1991,Nebraska,NE,0,0,0,0,0,0,0
+1992,Nebraska,NE,0,0,0,0,0,0,0
+1993,Nebraska,NE,0,1,0,0,0,0,0
+1994,Nebraska,NE,0,0,0,1,0,0,0
+1995,Nebraska,NE,0,0,0,0,0,0,0
+1996,Nebraska,NE,0,0,0,0,0,0,0
+1997,Nebraska,NE,0,0,0,0,0,0,0
+1998,Nebraska,NE,0,0,0,0,0,0,0
+1999,Nebraska,NE,0,0,0,1,0,0,0
+2000,Nebraska,NE,1,0,0,0,0,0,0
+2001,Nebraska,NE,0,0,0,1,0,0,0
+2002,Nebraska,NE,1,0,0,0,0,0,0
+2003,Nebraska,NE,1,0,0,1,0,0,0
+2004,Nebraska,NE,0,0,0,1,0,0,0
+2005,Nebraska,NE,0,0,0,0,0,0,0
+2006,Nebraska,NE,1,0,0,1,0,0,0
+2007,Nebraska,NE,0,0,1,0,0,0,0
+2008,Nebraska,NE,0,1,0,2,0,0,0
+2009,Nebraska,NE,0,0,0,2,0,0,0
+2010,Nebraska,NE,0,0,0,0,0,0,0
+2011,Nebraska,NE,0,1,0,2,0,0,0
+2012,Nebraska,NE,1,0,0,1,0,1,0
+2013,Nebraska,NE,1,0,0,1,0,0,0
+2014,Nebraska,NE,0,0,0,1,0,0,0
+2015,Nebraska,NE,0,0,0,1,0,0,0
+2016,Nebraska,NE,0,0,0,1,0,0,0
+2017,Nebraska,NE,0,0,0,1,0,0,0
+1980,New Hampshire,NH,0,0,0,0,0,0,0
+1981,New Hampshire,NH,0,0,0,0,0,0,0
+1982,New Hampshire,NH,0,0,0,0,0,0,1
+1983,New Hampshire,NH,0,0,0,0,0,0,0
+1984,New Hampshire,NH,0,0,0,0,0,0,0
+1985,New Hampshire,NH,0,0,0,0,1,0,0
+1986,New Hampshire,NH,0,0,0,0,0,0,0
+1987,New Hampshire,NH,0,0,0,0,0,0,0
+1988,New Hampshire,NH,0,0,0,0,0,0,0
+1989,New Hampshire,NH,0,0,0,0,0,0,1
+1990,New Hampshire,NH,0,0,0,0,0,0,0
+1991,New Hampshire,NH,0,0,0,0,0,0,0
+1992,New Hampshire,NH,0,0,0,0,0,0,0
+1993,New Hampshire,NH,0,0,0,0,0,0,1
+1994,New Hampshire,NH,0,0,0,0,0,0,1
+1995,New Hampshire,NH,0,0,0,0,0,0,0
+1996,New Hampshire,NH,0,0,0,0,0,0,0
+1997,New Hampshire,NH,0,0,0,1,0,0,0
+1998,New Hampshire,NH,0,0,0,1,0,0,1
+1999,New Hampshire,NH,0,0,0,0,1,0,1
+2000,New Hampshire,NH,0,0,0,0,0,0,0
+2001,New Hampshire,NH,0,0,0,0,0,0,0
+2002,New Hampshire,NH,0,0,0,0,0,0,0
+2003,New Hampshire,NH,0,0,0,0,0,0,0
+2004,New Hampshire,NH,0,0,0,0,0,0,0
+2005,New Hampshire,NH,0,0,0,0,0,0,0
+2006,New Hampshire,NH,0,0,0,0,0,0,0
+2007,New Hampshire,NH,0,0,0,1,0,0,0
+2008,New Hampshire,NH,0,0,0,0,0,0,0
+2009,New Hampshire,NH,0,0,0,0,0,0,0
+2010,New Hampshire,NH,0,0,0,0,0,0,0
+2011,New Hampshire,NH,0,0,0,0,1,0,0
+2012,New Hampshire,NH,0,0,0,0,1,0,0
+2013,New Hampshire,NH,0,0,0,0,0,0,0
+2014,New Hampshire,NH,0,0,0,0,0,0,0
+2015,New Hampshire,NH,0,0,0,0,0,0,1
+2016,New Hampshire,NH,1,0,0,0,0,0,0
+2017,New Hampshire,NH,0,0,0,0,0,0,0
+1980,New Jersey,NJ,0,0,0,0,0,0,0
+1981,New Jersey,NJ,0,0,0,0,0,0,0
+1982,New Jersey,NJ,0,0,0,0,0,0,1
+1983,New Jersey,NJ,0,0,1,0,0,0,0
+1984,New Jersey,NJ,0,0,0,1,0,0,0
+1985,New Jersey,NJ,0,0,0,0,1,0,1
+1986,New Jersey,NJ,0,0,0,0,0,0,0
+1987,New Jersey,NJ,0,0,0,0,0,0,0
+1988,New Jersey,NJ,0,0,0,0,0,0,0
+1989,New Jersey,NJ,0,0,0,0,0,0,0
+1990,New Jersey,NJ,0,0,0,0,0,0,0
+1991,New Jersey,NJ,0,0,0,0,0,0,0
+1992,New Jersey,NJ,0,0,0,0,0,0,1
+1993,New Jersey,NJ,0,0,0,0,0,0,1
+1994,New Jersey,NJ,0,0,0,0,0,0,2
+1995,New Jersey,NJ,0,0,0,0,0,0,0
+1996,New Jersey,NJ,0,0,0,0,0,0,1
+1997,New Jersey,NJ,0,0,0,1,0,0,0
+1998,New Jersey,NJ,0,0,0,1,0,0,0
+1999,New Jersey,NJ,1,0,0,0,1,0,2
+2000,New Jersey,NJ,0,0,0,0,0,0,0
+2001,New Jersey,NJ,0,0,0,0,1,0,0
+2002,New Jersey,NJ,1,0,0,0,0,0,0
+2003,New Jersey,NJ,0,0,0,0,1,0,0
+2004,New Jersey,NJ,0,0,0,0,2,0,0
+2005,New Jersey,NJ,0,0,0,0,0,0,0
+2006,New Jersey,NJ,0,1,0,0,0,0,0
+2007,New Jersey,NJ,1,0,0,1,0,0,0
+2008,New Jersey,NJ,1,0,0,1,0,0,0
+2009,New Jersey,NJ,0,0,0,0,0,0,0
+2010,New Jersey,NJ,0,1,0,0,0,0,0
+2011,New Jersey,NJ,0,0,0,0,2,0,0
+2012,New Jersey,NJ,1,0,0,1,1,0,0
+2013,New Jersey,NJ,0,0,0,0,0,0,0
+2014,New Jersey,NJ,0,0,0,1,0,0,1
+2015,New Jersey,NJ,0,1,0,1,0,0,1
+2016,New Jersey,NJ,0,0,0,2,0,0,0
+2017,New Jersey,NJ,0,0,0,0,0,0,0
+1980,New Mexico,NM,0,0,0,0,0,0,0
+1981,New Mexico,NM,0,0,0,0,0,0,0
+1982,New Mexico,NM,0,0,0,0,0,0,0
+1983,New Mexico,NM,0,0,0,0,0,0,0
+1984,New Mexico,NM,0,0,0,0,0,0,0
+1985,New Mexico,NM,0,0,0,0,0,0,0
+1986,New Mexico,NM,0,0,0,0,0,0,0
+1987,New Mexico,NM,0,0,0,0,0,0,0
+1988,New Mexico,NM,0,0,0,0,0,0,0
+1989,New Mexico,NM,0,0,0,0,0,0,0
+1990,New Mexico,NM,0,0,0,0,0,0,0
+1991,New Mexico,NM,0,0,0,0,0,0,0
+1992,New Mexico,NM,0,0,0,0,0,0,0
+1993,New Mexico,NM,0,0,0,0,0,0,0
+1994,New Mexico,NM,0,0,0,0,0,1,0
+1995,New Mexico,NM,0,0,0,0,0,0,0
+1996,New Mexico,NM,1,0,0,0,0,0,0
+1997,New Mexico,NM,0,0,0,0,0,0,0
+1998,New Mexico,NM,0,0,0,0,0,0,0
+1999,New Mexico,NM,0,0,0,0,0,0,0
+2000,New Mexico,NM,1,0,0,0,0,1,0
+2001,New Mexico,NM,0,0,0,0,0,0,0
+2002,New Mexico,NM,1,0,0,0,0,1,0
+2003,New Mexico,NM,1,0,0,0,0,0,0
+2004,New Mexico,NM,0,0,0,0,0,0,0
+2005,New Mexico,NM,0,0,0,0,0,0,0
+2006,New Mexico,NM,1,0,0,0,0,1,0
+2007,New Mexico,NM,0,0,0,0,0,0,0
+2008,New Mexico,NM,1,0,0,0,1,1,0
+2009,New Mexico,NM,1,0,0,0,0,1,0
+2010,New Mexico,NM,0,0,0,0,0,0,0
+2011,New Mexico,NM,1,0,0,0,0,1,0
+2012,New Mexico,NM,1,0,0,1,0,1,0
+2013,New Mexico,NM,1,0,0,0,0,0,0
+2014,New Mexico,NM,1,0,0,0,0,0,0
+2015,New Mexico,NM,0,0,0,1,0,0,0
+2016,New Mexico,NM,0,0,0,0,0,0,0
+2017,New Mexico,NM,0,0,0,0,0,0,0
+1980,Nevada,NV,0,0,0,0,0,0,0
+1981,Nevada,NV,0,0,0,0,0,0,0
+1982,Nevada,NV,0,0,0,0,0,0,0
+1983,Nevada,NV,0,0,0,0,0,0,0
+1984,Nevada,NV,0,0,0,0,0,0,0
+1985,Nevada,NV,0,0,0,0,0,0,0
+1986,Nevada,NV,0,0,0,1,0,0,0
+1987,Nevada,NV,0,0,0,0,0,0,0
+1988,Nevada,NV,0,0,0,0,0,0,0
+1989,Nevada,NV,1,0,0,0,0,0,0
+1990,Nevada,NV,0,0,0,0,0,0,0
+1991,Nevada,NV,0,0,0,0,0,0,0
+1992,Nevada,NV,0,0,0,0,0,0,0
+1993,Nevada,NV,0,0,0,0,0,0,0
+1994,Nevada,NV,0,0,0,0,0,1,0
+1995,Nevada,NV,0,0,0,0,0,0,0
+1996,Nevada,NV,0,0,0,0,0,0,0
+1997,Nevada,NV,0,1,0,0,0,0,0
+1998,Nevada,NV,0,0,0,0,0,0,0
+1999,Nevada,NV,0,0,0,0,0,0,0
+2000,Nevada,NV,0,0,0,0,0,0,0
+2001,Nevada,NV,0,0,0,0,0,0,0
+2002,Nevada,NV,0,0,0,0,0,1,0
+2003,Nevada,NV,0,0,0,0,0,0,0
+2004,Nevada,NV,0,0,0,0,0,0,0
+2005,Nevada,NV,0,0,0,0,0,0,0
+2006,Nevada,NV,0,0,0,0,0,1,0
+2007,Nevada,NV,1,0,0,0,0,1,0
+2008,Nevada,NV,0,0,0,0,0,1,0
+2009,Nevada,NV,0,0,0,0,0,0,0
+2010,Nevada,NV,0,0,0,0,0,0,0
+2011,Nevada,NV,0,0,0,0,0,1,0
+2012,Nevada,NV,1,0,0,0,0,1,0
+2013,Nevada,NV,1,0,0,0,0,0,0
+2014,Nevada,NV,1,0,0,0,0,0,0
+2015,Nevada,NV,1,0,0,0,0,0,0
+2016,Nevada,NV,0,0,0,0,0,1,0
+2017,Nevada,NV,0,0,0,0,0,0,0
+1980,New York,NY,0,0,0,0,0,0,0
+1981,New York,NY,0,0,0,0,0,0,0
+1982,New York,NY,0,0,0,0,0,0,1
+1983,New York,NY,0,0,1,0,0,0,0
+1984,New York,NY,0,0,0,1,0,0,0
+1985,New York,NY,0,0,0,0,1,0,1
+1986,New York,NY,0,0,0,0,0,0,0
+1987,New York,NY,0,0,0,0,0,0,0
+1988,New York,NY,0,0,0,0,0,0,0
+1989,New York,NY,0,0,0,0,0,0,1
+1990,New York,NY,0,0,0,0,0,0,0
+1991,New York,NY,0,0,0,1,1,0,0
+1992,New York,NY,0,0,0,0,0,0,1
+1993,New York,NY,0,0,0,0,0,0,1
+1994,New York,NY,0,0,0,0,0,0,2
+1995,New York,NY,0,0,0,0,0,0,0
+1996,New York,NY,0,0,0,0,0,0,1
+1997,New York,NY,0,0,0,1,0,0,0
+1998,New York,NY,0,0,0,1,0,0,1
+1999,New York,NY,0,0,0,0,1,0,2
+2000,New York,NY,0,0,0,0,0,0,0
+2001,New York,NY,0,0,0,0,0,0,0
+2002,New York,NY,1,0,0,1,0,0,0
+2003,New York,NY,0,0,0,2,1,0,0
+2004,New York,NY,0,0,0,1,3,0,0
+2005,New York,NY,0,0,0,0,0,0,0
+2006,New York,NY,0,1,0,0,0,0,0
+2007,New York,NY,1,0,0,1,0,0,0
+2008,New York,NY,0,0,0,1,0,0,0
+2009,New York,NY,0,0,0,0,0,0,0
+2010,New York,NY,0,1,0,1,0,0,0
+2011,New York,NY,0,0,0,0,2,0,1
+2012,New York,NY,1,0,0,1,1,0,0
+2013,New York,NY,0,0,0,2,0,0,0
+2014,New York,NY,0,1,0,2,0,0,1
+2015,New York,NY,0,0,0,1,0,0,1
+2016,New York,NY,1,0,0,2,0,0,0
+2017,New York,NY,0,0,0,1,0,0,0
+1980,Ohio,OH,0,0,0,0,0,0,0
+1981,Ohio,OH,0,0,0,0,0,0,0
+1982,Ohio,OH,0,0,0,2,0,0,1
+1983,Ohio,OH,0,0,1,0,0,0,0
+1984,Ohio,OH,0,0,0,0,0,0,0
+1985,Ohio,OH,0,0,0,0,0,0,1
+1986,Ohio,OH,0,0,0,0,0,0,0
+1987,Ohio,OH,0,0,0,0,0,0,0
+1988,Ohio,OH,1,0,0,0,0,0,0
+1989,Ohio,OH,0,0,0,0,0,0,1
+1990,Ohio,OH,0,0,0,0,0,0,0
+1991,Ohio,OH,1,0,0,1,0,0,0
+1992,Ohio,OH,0,0,0,0,0,0,0
+1993,Ohio,OH,0,0,0,0,0,0,1
+1994,Ohio,OH,0,0,0,0,0,0,1
+1995,Ohio,OH,0,0,0,0,0,0,0
+1996,Ohio,OH,0,0,0,0,1,0,1
+1997,Ohio,OH,0,0,0,1,0,0,0
+1998,Ohio,OH,0,0,0,1,0,0,0
+1999,Ohio,OH,1,0,0,1,0,0,2
+2000,Ohio,OH,0,0,0,0,0,0,0
+2001,Ohio,OH,0,0,0,1,0,0,0
+2002,Ohio,OH,1,0,0,1,0,0,0
+2003,Ohio,OH,0,0,0,3,0,0,0
+2004,Ohio,OH,0,0,0,1,1,0,0
+2005,Ohio,OH,1,0,0,0,0,0,0
+2006,Ohio,OH,0,0,0,1,0,0,0
+2007,Ohio,OH,1,0,1,0,0,0,0
+2008,Ohio,OH,1,0,0,1,1,0,0
+2009,Ohio,OH,0,0,0,1,0,0,0
+2010,Ohio,OH,0,0,0,0,0,0,0
+2011,Ohio,OH,0,0,0,4,0,0,1
+2012,Ohio,OH,1,0,0,2,1,0,0
+2013,Ohio,OH,0,0,0,1,0,0,0
+2014,Ohio,OH,0,0,0,1,0,0,1
+2015,Ohio,OH,0,1,0,1,0,0,1
+2016,Ohio,OH,0,1,0,0,0,0,0
+2017,Ohio,OH,0,0,0,2,0,0,0
+1980,Oklahoma,OK,1,0,0,0,0,0,0
+1981,Oklahoma,OK,0,0,0,1,0,0,0
+1982,Oklahoma,OK,0,0,0,2,0,0,1
+1983,Oklahoma,OK,0,0,1,0,0,0,0
+1984,Oklahoma,OK,0,0,0,0,0,0,0
+1985,Oklahoma,OK,0,0,0,0,0,0,1
+1986,Oklahoma,OK,0,0,0,0,0,0,0
+1987,Oklahoma,OK,0,0,0,0,0,0,0
+1988,Oklahoma,OK,1,0,0,0,0,0,0
+1989,Oklahoma,OK,0,0,0,1,0,0,1
+1990,Oklahoma,OK,0,1,0,0,0,0,0
+1991,Oklahoma,OK,1,0,0,0,0,0,0
+1992,Oklahoma,OK,0,0,0,2,0,0,0
+1993,Oklahoma,OK,0,0,0,0,0,0,0
+1994,Oklahoma,OK,0,0,0,1,0,0,0
+1995,Oklahoma,OK,0,0,0,1,0,0,0
+1996,Oklahoma,OK,1,0,0,0,0,0,0
+1997,Oklahoma,OK,0,0,0,0,0,0,0
+1998,Oklahoma,OK,1,0,0,0,0,0,0
+1999,Oklahoma,OK,0,0,0,1,0,0,1
+2000,Oklahoma,OK,1,0,0,0,0,0,0
+2001,Oklahoma,OK,0,0,0,1,0,0,0
+2002,Oklahoma,OK,1,0,0,0,0,0,0
+2003,Oklahoma,OK,0,0,0,1,0,1,0
+2004,Oklahoma,OK,0,0,0,1,0,0,0
+2005,Oklahoma,OK,0,0,0,0,0,0,0
+2006,Oklahoma,OK,1,0,0,1,0,1,0
+2007,Oklahoma,OK,0,0,1,0,0,0,0
+2008,Oklahoma,OK,1,1,0,3,0,1,0
+2009,Oklahoma,OK,1,0,0,3,0,1,0
+2010,Oklahoma,OK,0,0,0,1,0,0,0
+2011,Oklahoma,OK,1,0,0,5,0,1,1
+2012,Oklahoma,OK,1,0,0,2,0,1,0
+2013,Oklahoma,OK,1,0,0,2,0,0,0
+2014,Oklahoma,OK,1,0,0,0,0,0,0
+2015,Oklahoma,OK,0,1,0,4,0,0,0
+2016,Oklahoma,OK,0,0,0,3,0,0,0
+2017,Oklahoma,OK,0,0,0,1,0,0,0
+1980,Oregon,OR,0,0,0,0,0,0,0
+1981,Oregon,OR,0,0,0,0,0,0,0
+1982,Oregon,OR,0,0,0,0,0,0,0
+1983,Oregon,OR,0,1,1,0,0,0,0
+1984,Oregon,OR,0,0,0,0,0,0,0
+1985,Oregon,OR,0,0,0,0,0,0,0
+1986,Oregon,OR,0,0,0,1,0,0,0
+1987,Oregon,OR,0,0,0,0,0,0,0
+1988,Oregon,OR,0,0,0,0,0,0,0
+1989,Oregon,OR,0,0,0,0,0,0,0
+1990,Oregon,OR,0,0,0,0,0,0,0
+1991,Oregon,OR,1,0,0,0,0,0,0
+1992,Oregon,OR,0,0,0,0,0,0,0
+1993,Oregon,OR,0,0,0,0,0,0,0
+1994,Oregon,OR,0,0,0,0,0,1,0
+1995,Oregon,OR,0,0,0,0,0,0,0
+1996,Oregon,OR,0,1,0,0,0,0,0
+1997,Oregon,OR,0,1,0,0,0,0,0
+1998,Oregon,OR,0,0,0,0,0,0,0
+1999,Oregon,OR,0,0,0,0,0,0,0
+2000,Oregon,OR,1,0,0,0,0,0,0
+2001,Oregon,OR,0,0,0,0,0,0,0
+2002,Oregon,OR,1,0,0,0,0,1,0
+2003,Oregon,OR,1,0,0,0,0,1,0
+2004,Oregon,OR,0,0,0,0,0,0,0
+2005,Oregon,OR,1,0,0,0,0,0,0
+2006,Oregon,OR,0,0,0,0,0,1,0
+2007,Oregon,OR,1,0,0,0,0,1,0
+2008,Oregon,OR,1,0,0,0,0,1,0
+2009,Oregon,OR,1,0,0,0,0,0,0
+2010,Oregon,OR,0,0,0,0,0,0,0
+2011,Oregon,OR,0,0,0,0,0,1,0
+2012,Oregon,OR,0,0,0,0,0,1,0
+2013,Oregon,OR,1,0,0,0,0,0,0
+2014,Oregon,OR,1,0,0,0,0,0,0
+2015,Oregon,OR,1,0,0,0,0,1,0
+2016,Oregon,OR,0,0,0,0,0,1,0
+2017,Oregon,OR,0,0,0,0,0,0,0
+1980,Pennsylvania,PA,0,0,0,0,0,0,0
+1981,Pennsylvania,PA,0,0,0,0,0,0,0
+1982,Pennsylvania,PA,0,0,0,1,0,0,1
+1983,Pennsylvania,PA,0,0,1,0,0,0,0
+1984,Pennsylvania,PA,0,0,0,1,0,0,0
+1985,Pennsylvania,PA,0,0,0,0,1,0,1
+1986,Pennsylvania,PA,0,0,0,0,0,0,0
+1987,Pennsylvania,PA,0,0,0,0,0,0,0
+1988,Pennsylvania,PA,0,0,0,0,0,0,0
+1989,Pennsylvania,PA,0,0,0,0,0,0,1
+1990,Pennsylvania,PA,0,0,0,0,0,0,0
+1991,Pennsylvania,PA,1,0,0,1,0,0,0
+1992,Pennsylvania,PA,0,0,0,0,0,0,1
+1993,Pennsylvania,PA,0,0,0,0,0,0,1
+1994,Pennsylvania,PA,0,0,0,0,0,0,2
+1995,Pennsylvania,PA,0,0,0,0,0,0,0
+1996,Pennsylvania,PA,0,0,0,0,1,0,1
+1997,Pennsylvania,PA,0,0,0,1,0,0,0
+1998,Pennsylvania,PA,0,0,0,1,0,0,0
+1999,Pennsylvania,PA,1,0,0,0,1,0,2
+2000,Pennsylvania,PA,0,0,0,0,0,0,0
+2001,Pennsylvania,PA,0,0,0,1,1,0,0
+2002,Pennsylvania,PA,1,0,0,1,0,0,0
+2003,Pennsylvania,PA,0,0,0,1,1,0,0
+2004,Pennsylvania,PA,0,0,0,0,2,0,0
+2005,Pennsylvania,PA,0,0,0,0,0,0,0
+2006,Pennsylvania,PA,0,1,0,0,0,0,0
+2007,Pennsylvania,PA,1,0,0,1,0,0,0
+2008,Pennsylvania,PA,0,0,0,1,1,0,0
+2009,Pennsylvania,PA,0,0,0,2,0,0,0
+2010,Pennsylvania,PA,0,1,0,2,0,0,0
+2011,Pennsylvania,PA,1,0,0,2,1,0,1
+2012,Pennsylvania,PA,1,0,0,1,1,0,0
+2013,Pennsylvania,PA,0,0,0,0,0,0,0
+2014,Pennsylvania,PA,0,0,0,2,0,0,1
+2015,Pennsylvania,PA,0,0,0,3,0,0,1
+2016,Pennsylvania,PA,0,0,0,2,0,0,0
+2017,Pennsylvania,PA,0,0,0,0,0,0,0
+1980,Puerto Rico,PR,0,0,0,0,0,0,0
+1981,Puerto Rico,PR,0,0,0,0,0,0,0
+1982,Puerto Rico,PR,0,0,0,0,0,0,0
+1983,Puerto Rico,PR,0,0,0,0,0,0,0
+1984,Puerto Rico,PR,0,0,0,0,0,0,0
+1985,Puerto Rico,PR,0,0,0,0,0,0,0
+1986,Puerto Rico,PR,0,0,0,0,0,0,0
+1987,Puerto Rico,PR,0,0,0,0,0,0,0
+1988,Puerto Rico,PR,0,0,0,0,0,0,0
+1989,Puerto Rico,PR,0,0,0,0,1,0,0
+1990,Puerto Rico,PR,0,0,0,0,0,0,0
+1991,Puerto Rico,PR,0,0,0,0,0,0,0
+1992,Puerto Rico,PR,0,0,0,0,0,0,0
+1993,Puerto Rico,PR,0,0,0,0,0,0,0
+1994,Puerto Rico,PR,0,0,0,0,0,0,0
+1995,Puerto Rico,PR,0,0,0,0,1,0,0
+1996,Puerto Rico,PR,0,0,0,0,0,0,0
+1997,Puerto Rico,PR,0,0,0,0,0,0,0
+1998,Puerto Rico,PR,0,0,0,0,1,0,0
+1999,Puerto Rico,PR,0,0,0,0,0,0,0
+2000,Puerto Rico,PR,0,0,0,0,0,0,0
+2001,Puerto Rico,PR,0,0,0,0,0,0,0
+2002,Puerto Rico,PR,0,0,0,0,0,0,0
+2003,Puerto Rico,PR,0,0,0,0,0,0,0
+2004,Puerto Rico,PR,0,0,0,0,1,0,0
+2005,Puerto Rico,PR,0,0,0,0,0,0,0
+2006,Puerto Rico,PR,0,0,0,0,0,0,0
+2007,Puerto Rico,PR,0,0,0,0,0,0,0
+2008,Puerto Rico,PR,0,0,0,0,0,0,0
+2009,Puerto Rico,PR,0,0,0,0,0,0,0
+2010,Puerto Rico,PR,0,0,0,0,0,0,0
+2011,Puerto Rico,PR,0,0,0,0,0,0,0
+2012,Puerto Rico,PR,0,0,0,0,0,0,0
+2013,Puerto Rico,PR,0,0,0,0,0,0,0
+2014,Puerto Rico,PR,0,0,0,0,0,0,0
+2015,Puerto Rico,PR,0,0,0,0,0,0,0
+2016,Puerto Rico,PR,0,0,0,0,0,0,0
+2017,Puerto Rico,PR,0,0,0,0,0,0,0
+1980,Rhode Island,RI,0,0,0,0,0,0,0
+1981,Rhode Island,RI,0,0,0,0,0,0,0
+1982,Rhode Island,RI,0,0,0,0,0,0,1
+1983,Rhode Island,RI,0,0,1,0,0,0,0
+1984,Rhode Island,RI,0,0,0,1,0,0,0
+1985,Rhode Island,RI,0,0,0,0,1,0,1
+1986,Rhode Island,RI,0,0,0,0,0,0,0
+1987,Rhode Island,RI,0,0,0,0,0,0,0
+1988,Rhode Island,RI,0,0,0,0,0,0,0
+1989,Rhode Island,RI,0,0,0,0,0,0,0
+1990,Rhode Island,RI,0,0,0,0,0,0,0
+1991,Rhode Island,RI,0,0,0,0,1,0,0
+1992,Rhode Island,RI,0,0,0,0,0,0,1
+1993,Rhode Island,RI,0,0,0,0,0,0,1
+1994,Rhode Island,RI,0,0,0,0,0,0,2
+1995,Rhode Island,RI,0,0,0,0,0,0,0
+1996,Rhode Island,RI,0,0,0,0,0,0,1
+1997,Rhode Island,RI,0,0,0,1,0,0,0
+1998,Rhode Island,RI,0,0,0,0,0,0,0
+1999,Rhode Island,RI,0,0,0,0,1,0,1
+2000,Rhode Island,RI,0,0,0,0,0,0,0
+2001,Rhode Island,RI,0,0,0,0,0,0,0
+2002,Rhode Island,RI,0,0,0,0,0,0,0
+2003,Rhode Island,RI,0,0,0,0,0,0,0
+2004,Rhode Island,RI,0,0,0,0,0,0,0
+2005,Rhode Island,RI,0,0,0,0,0,0,0
+2006,Rhode Island,RI,0,0,0,0,0,0,0
+2007,Rhode Island,RI,0,0,0,1,0,0,0
+2008,Rhode Island,RI,0,0,0,0,0,0,0
+2009,Rhode Island,RI,0,0,0,0,0,0,0
+2010,Rhode Island,RI,0,1,0,0,0,0,0
+2011,Rhode Island,RI,0,0,0,0,1,0,1
+2012,Rhode Island,RI,0,0,0,0,1,0,0
+2013,Rhode Island,RI,0,0,0,0,0,0,0
+2014,Rhode Island,RI,0,0,0,0,0,0,0
+2015,Rhode Island,RI,0,0,0,0,0,0,1
+2016,Rhode Island,RI,1,0,0,0,0,0,0
+2017,Rhode Island,RI,0,0,0,0,0,0,0
+1980,South Carolina,SC,1,0,0,0,0,0,0
+1981,South Carolina,SC,0,0,0,0,0,0,0
+1982,South Carolina,SC,0,0,0,1,0,0,1
+1983,South Carolina,SC,1,0,1,0,0,0,0
+1984,South Carolina,SC,0,0,0,1,0,0,0
+1985,South Carolina,SC,0,0,0,0,0,0,1
+1986,South Carolina,SC,1,0,0,0,0,0,0
+1987,South Carolina,SC,0,0,0,0,0,0,0
+1988,South Carolina,SC,0,0,0,0,0,0,0
+1989,South Carolina,SC,0,0,0,1,1,0,1
+1990,South Carolina,SC,0,0,0,0,0,0,0
+1991,South Carolina,SC,0,0,0,1,0,0,0
+1992,South Carolina,SC,0,0,0,0,0,0,0
+1993,South Carolina,SC,1,0,0,0,0,0,1
+1994,South Carolina,SC,0,0,0,0,0,0,2
+1995,South Carolina,SC,0,0,0,0,1,0,0
+1996,South Carolina,SC,0,0,0,0,1,0,1
+1997,South Carolina,SC,0,0,0,0,0,0,0
+1998,South Carolina,SC,1,0,0,1,1,0,0
+1999,South Carolina,SC,1,0,0,1,1,0,1
+2000,South Carolina,SC,1,0,0,0,0,0,0
+2001,South Carolina,SC,0,0,0,0,0,0,0
+2002,South Carolina,SC,1,0,0,0,0,0,0
+2003,South Carolina,SC,0,0,0,2,0,0,0
+2004,South Carolina,SC,0,0,0,0,3,0,0
+2005,South Carolina,SC,0,0,0,0,0,0,0
+2006,South Carolina,SC,0,0,0,0,0,0,0
+2007,South Carolina,SC,1,0,1,1,0,0,0
+2008,South Carolina,SC,1,0,0,1,0,0,0
+2009,South Carolina,SC,0,0,0,2,0,0,0
+2010,South Carolina,SC,0,0,0,0,0,0,0
+2011,South Carolina,SC,1,0,0,4,0,0,0
+2012,South Carolina,SC,0,0,0,1,0,0,0
+2013,South Carolina,SC,0,0,0,0,0,0,0
+2014,South Carolina,SC,0,0,0,1,0,0,1
+2015,South Carolina,SC,0,2,0,1,0,0,1
+2016,South Carolina,SC,0,0,0,1,1,0,0
+2017,South Carolina,SC,0,0,1,2,0,0,0
+1980,South Dakota,SD,1,0,0,0,0,0,0
+1981,South Dakota,SD,0,0,0,0,0,0,0
+1982,South Dakota,SD,0,0,0,0,0,0,0
+1983,South Dakota,SD,0,0,1,0,0,0,0
+1984,South Dakota,SD,0,0,0,1,0,0,0
+1985,South Dakota,SD,0,0,0,0,0,0,0
+1986,South Dakota,SD,0,0,0,0,0,0,0
+1987,South Dakota,SD,0,0,0,0,0,0,0
+1988,South Dakota,SD,1,0,0,0,0,0,0
+1989,South Dakota,SD,1,0,0,0,0,0,0
+1990,South Dakota,SD,0,0,0,0,0,0,0
+1991,South Dakota,SD,0,0,0,0,0,0,0
+1992,South Dakota,SD,0,0,0,0,0,0,0
+1993,South Dakota,SD,0,1,0,0,0,0,0
+1994,South Dakota,SD,0,0,0,1,0,0,0
+1995,South Dakota,SD,0,0,0,0,0,0,0
+1996,South Dakota,SD,0,0,0,0,0,0,0
+1997,South Dakota,SD,0,1,0,0,0,0,0
+1998,South Dakota,SD,0,0,0,1,0,0,0
+1999,South Dakota,SD,0,0,0,0,0,0,0
+2000,South Dakota,SD,0,0,0,0,0,0,0
+2001,South Dakota,SD,0,0,0,0,0,0,0
+2002,South Dakota,SD,1,0,0,0,0,0,0
+2003,South Dakota,SD,1,0,0,1,0,0,0
+2004,South Dakota,SD,0,0,0,0,0,0,0
+2005,South Dakota,SD,1,0,0,0,0,0,0
+2006,South Dakota,SD,1,0,0,0,0,1,0
+2007,South Dakota,SD,0,0,0,0,0,0,0
+2008,South Dakota,SD,0,0,0,0,0,0,0
+2009,South Dakota,SD,0,0,0,0,0,0,0
+2010,South Dakota,SD,0,0,0,0,0,0,0
+2011,South Dakota,SD,0,1,0,1,0,0,0
+2012,South Dakota,SD,1,0,0,0,0,1,0
+2013,South Dakota,SD,1,0,0,0,0,0,0
+2014,South Dakota,SD,0,0,0,1,0,0,0
+2015,South Dakota,SD,0,0,0,2,0,0,0
+2016,South Dakota,SD,0,0,0,0,0,0,0
+2017,South Dakota,SD,0,0,0,0,0,0,0
+1980,Tennessee,TN,1,0,0,0,0,0,0
+1981,Tennessee,TN,0,0,0,0,0,0,0
+1982,Tennessee,TN,0,0,0,1,0,0,1
+1983,Tennessee,TN,1,0,1,0,0,0,0
+1984,Tennessee,TN,0,0,0,0,0,0,0
+1985,Tennessee,TN,0,0,0,0,0,0,1
+1986,Tennessee,TN,1,0,0,0,0,0,0
+1987,Tennessee,TN,0,0,0,0,0,0,0
+1988,Tennessee,TN,1,0,0,0,0,0,0
+1989,Tennessee,TN,0,0,0,0,0,0,1
+1990,Tennessee,TN,0,0,0,0,0,0,0
+1991,Tennessee,TN,0,0,0,1,0,0,0
+1992,Tennessee,TN,0,0,0,0,0,0,0
+1993,Tennessee,TN,1,0,0,0,0,0,1
+1994,Tennessee,TN,0,0,0,0,0,0,2
+1995,Tennessee,TN,0,0,0,0,1,0,0
+1996,Tennessee,TN,0,0,0,0,0,0,1
+1997,Tennessee,TN,0,0,0,1,0,0,0
+1998,Tennessee,TN,1,0,0,1,0,0,0
+1999,Tennessee,TN,1,0,0,1,0,0,1
+2000,Tennessee,TN,1,0,0,0,0,0,0
+2001,Tennessee,TN,0,0,0,0,0,0,0
+2002,Tennessee,TN,1,0,0,1,0,0,0
+2003,Tennessee,TN,0,0,0,3,0,0,0
+2004,Tennessee,TN,0,0,0,0,1,0,0
+2005,Tennessee,TN,0,0,0,0,1,0,0
+2006,Tennessee,TN,0,0,0,2,0,0,0
+2007,Tennessee,TN,1,0,1,0,0,0,0
+2008,Tennessee,TN,1,0,0,1,0,0,0
+2009,Tennessee,TN,0,0,0,4,0,0,0
+2010,Tennessee,TN,0,1,0,0,0,0,0
+2011,Tennessee,TN,1,1,0,6,1,0,0
+2012,Tennessee,TN,1,0,0,1,0,0,0
+2013,Tennessee,TN,0,0,0,1,0,0,0
+2014,Tennessee,TN,0,0,0,1,0,0,1
+2015,Tennessee,TN,0,0,0,3,0,0,1
+2016,Tennessee,TN,0,0,0,1,0,1,0
+2017,Tennessee,TN,0,0,1,1,0,0,0
+1980,Texas,TX,1,0,0,0,1,0,0
+1981,Texas,TX,0,0,0,1,0,0,0
+1982,Texas,TX,0,0,0,2,0,0,1
+1983,Texas,TX,0,0,1,0,1,0,0
+1984,Texas,TX,0,0,0,0,0,0,0
+1985,Texas,TX,0,0,0,0,0,0,1
+1986,Texas,TX,0,0,0,0,0,0,0
+1987,Texas,TX,0,0,0,0,0,0,0
+1988,Texas,TX,1,0,0,0,0,0,0
+1989,Texas,TX,1,0,0,1,0,0,1
+1990,Texas,TX,0,1,0,0,0,0,0
+1991,Texas,TX,0,0,0,0,0,0,0
+1992,Texas,TX,0,0,0,2,0,0,0
+1993,Texas,TX,0,0,0,0,0,0,1
+1994,Texas,TX,0,1,0,1,0,1,1
+1995,Texas,TX,0,0,0,1,0,0,0
+1996,Texas,TX,1,0,0,0,0,0,1
+1997,Texas,TX,0,0,0,1,0,0,0
+1998,Texas,TX,1,1,0,1,0,0,0
+1999,Texas,TX,0,0,0,1,0,0,1
+2000,Texas,TX,1,0,0,0,0,0,0
+2001,Texas,TX,0,0,0,1,1,0,0
+2002,Texas,TX,1,0,0,1,0,0,0
+2003,Texas,TX,0,0,0,1,0,0,0
+2004,Texas,TX,0,0,0,0,0,0,0
+2005,Texas,TX,0,0,0,0,1,0,0
+2006,Texas,TX,1,0,0,1,0,1,0
+2007,Texas,TX,0,0,0,1,0,0,0
+2008,Texas,TX,1,0,0,2,2,1,0
+2009,Texas,TX,1,0,0,3,0,1,0
+2010,Texas,TX,0,0,0,1,0,0,0
+2011,Texas,TX,1,0,0,6,0,1,1
+2012,Texas,TX,1,0,0,4,0,1,0
+2013,Texas,TX,1,0,0,2,0,0,0
+2014,Texas,TX,1,0,0,2,0,0,0
+2015,Texas,TX,0,1,0,4,0,1,0
+2016,Texas,TX,0,2,0,7,0,0,0
+2017,Texas,TX,0,0,0,1,0,0,0
+1980,Utah,UT,0,0,0,0,0,0,0
+1981,Utah,UT,0,0,0,0,0,0,0
+1982,Utah,UT,0,0,0,0,0,0,0
+1983,Utah,UT,0,1,1,0,0,0,0
+1984,Utah,UT,0,0,0,0,0,0,0
+1985,Utah,UT,0,0,0,0,0,0,0
+1986,Utah,UT,0,0,0,0,0,0,0
+1987,Utah,UT,0,0,0,0,0,0,0
+1988,Utah,UT,0,0,0,0,0,0,0
+1989,Utah,UT,1,0,0,0,0,0,0
+1990,Utah,UT,0,0,0,0,0,0,0
+1991,Utah,UT,0,0,0,0,0,0,0
+1992,Utah,UT,0,0,0,0,0,0,0
+1993,Utah,UT,0,0,0,0,0,0,0
+1994,Utah,UT,0,0,0,0,0,1,0
+1995,Utah,UT,0,0,0,0,0,0,0
+1996,Utah,UT,0,0,0,0,0,0,0
+1997,Utah,UT,0,0,0,0,0,0,0
+1998,Utah,UT,0,0,0,0,0,0,0
+1999,Utah,UT,0,0,0,0,0,0,0
+2000,Utah,UT,0,0,0,0,0,0,0
+2001,Utah,UT,0,0,0,0,0,0,0
+2002,Utah,UT,0,0,0,0,0,1,0
+2003,Utah,UT,1,0,0,0,0,1,0
+2004,Utah,UT,0,0,0,0,0,0,0
+2005,Utah,UT,0,0,0,0,0,0,0
+2006,Utah,UT,0,0,0,0,0,1,0
+2007,Utah,UT,1,0,0,0,0,1,0
+2008,Utah,UT,0,0,0,0,0,1,0
+2009,Utah,UT,0,0,0,0,0,0,0
+2010,Utah,UT,0,0,0,0,0,0,0
+2011,Utah,UT,0,0,0,0,0,0,0
+2012,Utah,UT,1,0,0,0,0,1,0
+2013,Utah,UT,1,0,0,0,0,0,0
+2014,Utah,UT,0,0,0,0,0,0,0
+2015,Utah,UT,1,0,0,0,0,0,0
+2016,Utah,UT,0,0,0,0,0,0,0
+2017,Utah,UT,0,0,0,0,0,0,0
+1980,Vermont,VA,1,0,0,0,0,0,0
+1981,Vermont,VA,0,0,0,0,0,0,0
+1982,Vermont,VA,0,0,0,0,0,0,1
+1983,Vermont,VA,1,0,1,0,0,0,0
+1984,Vermont,VA,0,0,0,1,0,0,0
+1985,Vermont,VA,0,0,0,0,1,0,1
+1986,Vermont,VA,1,0,0,0,0,0,0
+1987,Vermont,VA,0,0,0,0,0,0,0
+1988,Vermont,VA,0,0,0,0,0,0,0
+1989,Vermont,VA,0,0,0,1,1,0,1
+1990,Vermont,VA,0,0,0,0,0,0,0
+1991,Vermont,VA,0,0,0,0,0,0,0
+1992,Vermont,VA,0,0,0,0,0,0,1
+1993,Vermont,VA,1,0,0,0,0,0,1
+1994,Vermont,VA,0,0,0,0,0,0,2
+1995,Vermont,VA,0,0,0,0,0,0,0
+1996,Vermont,VA,0,0,0,0,1,0,1
+1997,Vermont,VA,0,0,0,0,0,0,0
+1998,Vermont,VA,1,0,0,1,1,0,0
+1999,Vermont,VA,1,0,0,0,1,0,2
+2000,Vermont,VA,0,0,0,0,0,0,0
+2001,Vermont,VA,0,0,0,0,0,0,0
+2002,Vermont,VA,1,0,0,1,0,0,0
+2003,Vermont,VA,0,0,0,1,1,0,0
+2004,Vermont,VA,0,0,0,0,2,0,0
+2005,Vermont,VA,0,0,0,0,0,0,0
+2006,Vermont,VA,0,1,0,0,0,0,0
+2007,Vermont,VA,1,0,1,1,0,0,0
+2008,Vermont,VA,1,0,0,0,0,0,0
+2009,Vermont,VA,0,0,0,1,0,0,0
+2010,Vermont,VA,0,0,0,0,0,0,0
+2011,Vermont,VA,1,0,0,3,2,0,0
+2012,Vermont,VA,1,0,0,1,1,0,0
+2013,Vermont,VA,0,0,0,0,0,0,0
+2014,Vermont,VA,0,0,0,2,0,0,1
+2015,Vermont,VA,0,1,0,1,0,0,1
+2016,Vermont,VA,0,1,0,3,1,0,0
+2017,Vermont,VA,0,0,1,1,0,0,0
+1980,Virgin Islands,VI,0,0,0,0,0,0,0
+1981,Virgin Islands,VI,0,0,0,0,0,0,0
+1982,Virgin Islands,VI,0,0,0,0,0,0,0
+1983,Virgin Islands,VI,0,0,0,0,0,0,0
+1984,Virgin Islands,VI,0,0,0,0,0,0,0
+1985,Virgin Islands,VI,0,0,0,0,0,0,0
+1986,Virgin Islands,VI,0,0,0,0,0,0,0
+1987,Virgin Islands,VI,0,0,0,0,0,0,0
+1988,Virgin Islands,VI,0,0,0,0,0,0,0
+1989,Virgin Islands,VI,0,0,0,0,1,0,0
+1990,Virgin Islands,VI,0,0,0,0,0,0,0
+1991,Virgin Islands,VI,0,0,0,0,0,0,0
+1992,Virgin Islands,VI,0,0,0,0,0,0,0
+1993,Virgin Islands,VI,0,0,0,0,0,0,0
+1994,Virgin Islands,VI,0,0,0,0,0,0,0
+1995,Virgin Islands,VI,0,0,0,0,1,0,0
+1996,Virgin Islands,VI,0,0,0,0,0,0,0
+1997,Virgin Islands,VI,0,0,0,0,0,0,0
+1998,Virgin Islands,VI,0,0,0,0,1,0,0
+1999,Virgin Islands,VI,0,0,0,0,0,0,0
+2000,Virgin Islands,VI,0,0,0,0,0,0,0
+2001,Virgin Islands,VI,0,0,0,0,0,0,0
+2002,Virgin Islands,VI,0,0,0,0,0,0,0
+2003,Virgin Islands,VI,0,0,0,0,0,0,0
+2004,Virgin Islands,VI,0,0,0,0,0,0,0
+2005,Virgin Islands,VI,0,0,0,0,0,0,0
+2006,Virgin Islands,VI,0,0,0,0,0,0,0
+2007,Virgin Islands,VI,0,0,0,0,0,0,0
+2008,Virgin Islands,VI,0,0,0,0,0,0,0
+2009,Virgin Islands,VI,0,0,0,0,0,0,0
+2010,Virgin Islands,VI,0,0,0,0,0,0,0
+2011,Virgin Islands,VI,0,0,0,0,0,0,0
+2012,Virgin Islands,VI,0,0,0,0,0,0,0
+2013,Virgin Islands,VI,0,0,0,0,0,0,0
+2014,Virgin Islands,VI,0,0,0,0,0,0,0
+2015,Virgin Islands,VI,0,0,0,0,0,0,0
+2016,Virgin Islands,VI,0,0,0,0,0,0,0
+2017,Virgin Islands,VI,0,0,0,0,0,0,0
+1980,Vermont,VT,0,0,0,0,0,0,0
+1981,Vermont,VT,0,0,0,0,0,0,0
+1982,Vermont,VT,0,0,0,0,0,0,1
+1983,Vermont,VT,0,0,0,0,0,0,0
+1984,Vermont,VT,0,0,0,0,0,0,0
+1985,Vermont,VT,0,0,0,0,1,0,0
+1986,Vermont,VT,0,0,0,0,0,0,0
+1987,Vermont,VT,0,0,0,0,0,0,0
+1988,Vermont,VT,0,0,0,0,0,0,0
+1989,Vermont,VT,0,0,0,0,0,0,1
+1990,Vermont,VT,0,0,0,0,0,0,0
+1991,Vermont,VT,0,0,0,0,0,0,0
+1992,Vermont,VT,0,0,0,0,0,0,0
+1993,Vermont,VT,0,0,0,0,0,0,1
+1994,Vermont,VT,0,0,0,0,0,0,1
+1995,Vermont,VT,0,0,0,0,0,0,0
+1996,Vermont,VT,0,0,0,0,0,0,0
+1997,Vermont,VT,0,0,0,1,0,0,0
+1998,Vermont,VT,0,0,0,1,0,0,1
+1999,Vermont,VT,0,0,0,0,1,0,2
+2000,Vermont,VT,0,0,0,0,0,0,0
+2001,Vermont,VT,0,0,0,0,0,0,0
+2002,Vermont,VT,0,0,0,0,0,0,0
+2003,Vermont,VT,0,0,0,0,0,0,0
+2004,Vermont,VT,0,0,0,0,0,0,0
+2005,Vermont,VT,0,0,0,0,0,0,0
+2006,Vermont,VT,0,0,0,0,0,0,0
+2007,Vermont,VT,0,0,0,1,0,0,0
+2008,Vermont,VT,0,0,0,0,0,0,0
+2009,Vermont,VT,0,0,0,0,0,0,0
+2010,Vermont,VT,0,0,0,0,0,0,0
+2011,Vermont,VT,0,0,0,0,1,0,0
+2012,Vermont,VT,0,0,0,0,0,0,0
+2013,Vermont,VT,0,0,0,0,0,0,0
+2014,Vermont,VT,0,0,0,0,0,0,0
+2015,Vermont,VT,0,0,0,0,0,0,0
+2016,Vermont,VT,1,0,0,0,0,0,0
+2017,Vermont,VT,0,0,0,0,0,0,0
+1980,Washington,WA,0,0,0,0,0,0,0
+1981,Washington,WA,0,0,0,0,0,0,0
+1982,Washington,WA,0,0,0,0,0,0,0
+1983,Washington,WA,0,1,1,0,0,0,0
+1984,Washington,WA,0,0,0,0,0,0,0
+1985,Washington,WA,0,0,0,0,0,0,0
+1986,Washington,WA,0,0,0,0,0,0,0
+1987,Washington,WA,0,0,0,0,0,0,0
+1988,Washington,WA,0,0,0,0,0,0,0
+1989,Washington,WA,0,0,0,0,0,0,0
+1990,Washington,WA,0,0,0,0,0,0,0
+1991,Washington,WA,1,0,0,0,0,0,0
+1992,Washington,WA,0,0,0,0,0,0,0
+1993,Washington,WA,0,0,0,0,0,0,0
+1994,Washington,WA,0,0,0,0,0,1,0
+1995,Washington,WA,0,0,0,0,0,0,0
+1996,Washington,WA,0,1,0,0,0,0,0
+1997,Washington,WA,0,1,0,0,0,0,0
+1998,Washington,WA,0,0,0,0,0,0,0
+1999,Washington,WA,0,0,0,0,0,0,0
+2000,Washington,WA,0,0,0,0,0,1,0
+2001,Washington,WA,0,0,0,0,0,0,0
+2002,Washington,WA,1,0,0,0,0,0,0
+2003,Washington,WA,1,0,0,0,0,1,0
+2004,Washington,WA,0,0,0,0,0,0,0
+2005,Washington,WA,1,0,0,0,0,0,0
+2006,Washington,WA,0,0,0,0,0,1,0
+2007,Washington,WA,0,0,0,0,0,1,0
+2008,Washington,WA,1,0,0,0,0,1,0
+2009,Washington,WA,1,0,0,0,0,0,0
+2010,Washington,WA,0,0,0,0,0,0,0
+2011,Washington,WA,0,0,0,0,0,0,0
+2012,Washington,WA,0,0,0,0,0,1,0
+2013,Washington,WA,1,0,0,0,0,0,0
+2014,Washington,WA,1,0,0,0,0,0,0
+2015,Washington,WA,1,0,0,0,0,1,0
+2016,Washington,WA,0,0,0,0,0,1,0
+2017,Washington,WA,0,0,0,0,0,0,0
+1980,Wisconsin,WI,0,0,0,0,0,0,0
+1981,Wisconsin,WI,0,0,0,0,0,0,0
+1982,Wisconsin,WI,0,0,0,1,0,0,1
+1983,Wisconsin,WI,0,0,1,0,0,0,0
+1984,Wisconsin,WI,0,0,0,0,0,0,0
+1985,Wisconsin,WI,0,0,0,0,0,0,1
+1986,Wisconsin,WI,0,0,0,0,0,0,0
+1987,Wisconsin,WI,0,0,0,0,0,0,0
+1988,Wisconsin,WI,1,0,0,0,0,0,0
+1989,Wisconsin,WI,0,0,0,0,0,0,0
+1990,Wisconsin,WI,0,0,0,0,0,0,0
+1991,Wisconsin,WI,0,0,0,0,0,0,0
+1992,Wisconsin,WI,0,0,0,0,0,0,0
+1993,Wisconsin,WI,0,1,0,0,0,0,0
+1994,Wisconsin,WI,0,0,0,0,0,0,0
+1995,Wisconsin,WI,0,0,0,0,0,0,0
+1996,Wisconsin,WI,0,0,0,0,0,0,0
+1997,Wisconsin,WI,0,0,0,0,0,0,0
+1998,Wisconsin,WI,0,0,0,1,0,0,0
+1999,Wisconsin,WI,0,0,0,0,0,0,0
+2000,Wisconsin,WI,0,0,0,0,0,0,0
+2001,Wisconsin,WI,0,0,0,1,0,0,0
+2002,Wisconsin,WI,0,0,0,0,0,0,0
+2003,Wisconsin,WI,1,0,0,0,0,0,0
+2004,Wisconsin,WI,0,0,0,1,0,0,0
+2005,Wisconsin,WI,1,0,0,0,0,0,0
+2006,Wisconsin,WI,0,0,0,1,0,0,0
+2007,Wisconsin,WI,1,0,0,0,0,0,0
+2008,Wisconsin,WI,1,1,0,1,0,0,0
+2009,Wisconsin,WI,0,0,0,0,0,0,0
+2010,Wisconsin,WI,0,0,0,1,0,0,0
+2011,Wisconsin,WI,0,0,0,3,0,0,0
+2012,Wisconsin,WI,1,0,0,0,0,0,0
+2013,Wisconsin,WI,1,0,0,1,0,0,0
+2014,Wisconsin,WI,0,0,0,0,0,0,0
+2015,Wisconsin,WI,0,0,0,2,0,0,0
+2016,Wisconsin,WI,0,0,0,0,0,0,0
+2017,Wisconsin,WI,0,0,0,1,0,0,0
+1980,West Virginia,WV,0,0,0,0,0,0,0
+1981,West Virginia,WV,0,0,0,0,0,0,0
+1982,West Virginia,WV,0,0,0,1,0,0,1
+1983,West Virginia,WV,0,0,1,0,0,0,0
+1984,West Virginia,WV,0,0,0,0,0,0,0
+1985,West Virginia,WV,0,0,0,0,0,0,1
+1986,West Virginia,WV,0,0,0,0,0,0,0
+1987,West Virginia,WV,0,0,0,0,0,0,0
+1988,West Virginia,WV,1,0,0,0,0,0,0
+1989,West Virginia,WV,0,0,0,0,0,0,1
+1990,West Virginia,WV,0,0,0,0,0,0,0
+1991,West Virginia,WV,1,0,0,0,0,0,0
+1992,West Virginia,WV,0,0,0,0,0,0,1
+1993,West Virginia,WV,0,0,0,0,0,0,1
+1994,West Virginia,WV,0,0,0,0,0,0,2
+1995,West Virginia,WV,0,0,0,0,0,0,0
+1996,West Virginia,WV,0,0,0,0,1,0,1
+1997,West Virginia,WV,0,0,0,1,0,0,0
+1998,West Virginia,WV,0,0,0,1,0,0,0
+1999,West Virginia,WV,1,0,0,0,0,0,2
+2000,West Virginia,WV,0,0,0,0,0,0,0
+2001,West Virginia,WV,0,0,0,0,0,0,0
+2002,West Virginia,WV,1,0,0,1,0,0,0
+2003,West Virginia,WV,0,0,0,1,1,0,0
+2004,West Virginia,WV,0,0,0,0,1,0,0
+2005,West Virginia,WV,0,0,0,0,0,0,0
+2006,West Virginia,WV,0,0,0,0,0,0,0
+2007,West Virginia,WV,1,0,1,0,0,0,0
+2008,West Virginia,WV,0,0,0,0,0,0,0
+2009,West Virginia,WV,0,0,0,1,0,0,0
+2010,West Virginia,WV,0,0,0,0,0,0,0
+2011,West Virginia,WV,1,0,0,0,0,0,0
+2012,West Virginia,WV,0,0,0,1,1,0,0
+2013,West Virginia,WV,0,0,0,0,0,0,0
+2014,West Virginia,WV,0,0,0,0,0,0,0
+2015,West Virginia,WV,0,0,0,1,0,0,0
+2016,West Virginia,WV,0,1,0,0,0,0,0
+2017,West Virginia,WV,0,0,0,1,0,0,0
+1980,Wyoming,WY,0,0,0,0,0,0,0
+1981,Wyoming,WY,0,0,0,0,0,0,0
+1982,Wyoming,WY,0,0,0,0,0,0,0
+1983,Wyoming,WY,0,0,1,0,0,0,0
+1984,Wyoming,WY,0,0,0,0,0,0,0
+1985,Wyoming,WY,0,0,0,0,0,0,0
+1986,Wyoming,WY,0,0,0,1,0,0,0
+1987,Wyoming,WY,0,0,0,0,0,0,0
+1988,Wyoming,WY,1,0,0,0,0,0,0
+1989,Wyoming,WY,0,0,0,0,0,0,0
+1990,Wyoming,WY,0,0,0,0,0,0,0
+1991,Wyoming,WY,0,0,0,0,0,0,0
+1992,Wyoming,WY,0,0,0,0,0,0,0
+1993,Wyoming,WY,0,0,0,0,0,0,0
+1994,Wyoming,WY,0,0,0,0,0,0,0
+1995,Wyoming,WY,0,0,0,0,0,0,0
+1996,Wyoming,WY,0,0,0,0,0,0,0
+1997,Wyoming,WY,0,0,0,0,0,0,0
+1998,Wyoming,WY,0,0,0,0,0,0,0
+1999,Wyoming,WY,0,0,0,0,0,0,0
+2000,Wyoming,WY,0,0,0,0,0,1,0
+2001,Wyoming,WY,0,0,0,0,0,0,0
+2002,Wyoming,WY,1,0,0,0,0,0,0
+2003,Wyoming,WY,0,0,0,0,0,0,0
+2004,Wyoming,WY,0,0,0,0,0,0,0
+2005,Wyoming,WY,0,0,0,0,0,0,0
+2006,Wyoming,WY,1,0,0,0,0,1,0
+2007,Wyoming,WY,1,0,0,0,0,0,0
+2008,Wyoming,WY,0,0,0,1,0,0,0
+2009,Wyoming,WY,0,0,0,0,0,0,0
+2010,Wyoming,WY,0,0,0,0,0,0,0
+2011,Wyoming,WY,0,0,0,1,0,0,0
+2012,Wyoming,WY,1,0,0,0,0,1,0
+2013,Wyoming,WY,1,0,0,0,0,0,0
+2014,Wyoming,WY,0,0,0,1,0,0,0
+2015,Wyoming,WY,0,0,0,0,0,1,0
+2016,Wyoming,WY,0,0,0,1,0,1,0
+2017,Wyoming,WY,0,0,0,0,0,0,0
